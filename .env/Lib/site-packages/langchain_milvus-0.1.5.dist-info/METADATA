@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: langchain-milvus
+Version: 0.1.5
+Summary: An integration package connecting Milvus and LangChain
+Home-page: https://github.com/langchain-ai/langchain
+License: MIT
+Requires-Python: >=3.8.1,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Dist: langchain-core (>=0.2.38,<0.3) ; python_version < "3.9"
+Requires-Dist: langchain-core (>=0.2.38,<0.4) ; python_version >= "3.9"
+Requires-Dist: pymilvus (>=2.4.3,<3.0.0)
+Requires-Dist: scipy (>=1.7,<2.0) ; python_version < "3.12"
+Requires-Dist: scipy (>=1.9,<2.0) ; python_version >= "3.12"
+Project-URL: Repository, https://github.com/langchain-ai/langchain
+Project-URL: Release Notes, https://github.com/langchain-ai/langchain/releases?q=tag%3A%22langchain-milvus%3D%3D0%22&expanded=true
+Project-URL: Source Code, https://github.com/langchain-ai/langchain/tree/master/libs/partners/milvus
+Description-Content-Type: text/markdown
+
+# langchain-milvus
+
+This is a library integration with [Milvus](https://milvus.io/) and [Zilliz Cloud](https://zilliz.com/cloud).
+
+## Installation
+
+```bash
+pip install -U langchain-milvus
+```
+
+## Milvus vector database
+
+See a [usage example](https://python.langchain.com/v0.2/docs/integrations/vectorstores/milvus/)
+
+```python
+from langchain_milvus import Milvus
+```
+
+## Milvus hybrid search
+
+See a [usage example](https://python.langchain.com/v0.2/docs/integrations/retrievers/milvus_hybrid_search/).
+
+```python
+from langchain_milvus import MilvusCollectionHybridSearchRetriever
+```
+
+
+## Zilliz Cloud vector database
+
+See a [usage example](https://python.langchain.com/v0.2/docs/integrations/vectorstores/zilliz/).
+
+```python
+from langchain_milvus import Zilliz
+```
+
+## Zilliz Cloud Pipeline Retriever
+
+See a [usage example](https://python.langchain.com/v0.2/docs/integrations/retrievers/zilliz_cloud_pipeline/).
+
+```python
+from langchain_milvus import ZillizCloudPipelineRetriever
+```

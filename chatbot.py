@@ -1,14 +1,13 @@
 import streamlit as st
 # from langchain_google_genai import GoogleGenerativeAI
 import google.generativeai as genai
-import re
+# import re
 
 st.title("Chatbot")
 
 genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 
 llm = genai.GenerativeModel("gemini-1.5-flash")
-
 
 #helper function to display and send streamlit messages
 def display_message(bin_switch:int,query:str):
@@ -35,14 +34,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 if len(st.session_state.messages) == 0:
-    initial_prompt = '''Introduce yourself as Dox, an assistant powered by Google Gemini. You have to collect only the following information 
-    from the user initially:
-    - Age
-    - Current Gender (Male, Female or Non-binary)
-    - Gender assigned at birth (Male or Female)
-    - Whether they are member of public or a health professional
-
-    If the user does not give the above information or asks anything irrelevant, refuse politely and ask for the details again.
+    initial_prompt = '''Introduce yourself as Dox, an assistant powered by Google Gemini. 
     '''  
     message = llm.generate_content(initial_prompt)
     display_message(1,message.candidates[0].content.parts[0].text) 

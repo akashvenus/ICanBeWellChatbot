@@ -1,0 +1,62 @@
+[
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Screen men age 65-80 with ultrasound once",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "[[CTFPHC 2017; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",
+      "Gender": "m",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Between ages 65 and 80 ask your provider about an ultrasound to detect an AAA ",
+      "General Patient Text": "• Your provider may ask for an ultrasound of your belly\r\nto detect a bulge in the main blood vessel \r\n(the bulge is nicknamed AAA for short or Abdominal Aortic Aneurysm)\r\n• If the bulge grows it can burst and cause death.\r\n• [[Recommendation; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",
+      "Health Provider Text": "n/a",
+      "Gender": "m",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Screening not recommended for men older than 80 years old ",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "[[Weak recommendation by CTFPHC 2017; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",
+      "Gender": "m",
+      "Minimum age": 81,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Screening not recommended for women of all ages. ",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "[[Strong recommendation, very low quality of evidence CTFPHC 2017; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",
+      "Gender": "f",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Screening for AAA in trans and non binary patients",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "At this time we could not find a Canadian reference on this topic. In the UK trans females and non binary patients who were assigned male sex at birth are advised to have an abdominal ultrasound to detect AAA between ages 65 and 80. Trans males can have a screening ultrasound if they wish but the risk of an aneurysm is mentioned as  being less.\r\n[[Reference; https://www.gov.uk/government/publications/nhs-population-screening-information-for-transgender-people]]",
+      "Gender": "tm,tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Between 65 and 80 you may need a test",
+      "General Patient Text": "Canadian guidelines on screening for abdominal aortic aneurysm (AAA: a bulge in the main blood vessel of the body that can be dangerous) in trans and non binary people were not found. In the UK the following is recommended:\r\n• If you are a trans female or non binary with sex assigned at birth as male you are advised to have an ultrasound to detect an abdominal aortic aneurysm. Speak to your provider about this.\r\n\r\n• Currently trans males, and those who are non binary with sex assigned at birth as female, may not be advised to have this test.\r\n\r\n Research may change in this area. Speak to your health care provider.",
+      "Health Provider Text": "n/a",
+      "Gender": "tm,tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    }
+]
