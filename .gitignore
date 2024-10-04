@@ -1,0 +1,10 @@
+.env
+
+#Ignore virtual env
+venv
+
+#Ignore chroma store
+data/c655319a-416f-4417-a02d-556aa3071bea
+
+#Ignore cache
+__pycache__
