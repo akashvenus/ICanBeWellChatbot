@@ -12,6 +12,25 @@ A chatbot that is used to help users to communicate their problems with the ICan
 python -m venv <environment_name>
 ```
 
+- pip install all the requirements
+```markdown
+pip install -r requirements.txt
+```
+
+- Create your .env file and store your hugging face api and Google api. The file should look like this
+```mardown
+HUGGINGFACEHUB_API_TOKEN = <your_api_key>
+GOOGLE_API_KEY = <your_api_key>
+```
+**Running**
+- First run rag_model.py
+```markdown
+python rag_model.py
+```
+- Now run the chatbot.py
+```markdown
+streamlit run chatbot.py
+```
 
 **License:**
 
