@@ -26,27 +26,36 @@ vector_store = Chroma(embedding_function=embedding_model, persist_directory=data
 llm = GoogleGenerativeAI(model='gemini-1.5-flash',api_key=os.getenv('GOOGLE_API_KEY'))
 
 prompt = PromptTemplate.from_template(
-        """I want you to analyze the provided medical details of a few patients from the given database {database}. Focus on the following keys and their descriptions:
+        """
+        I want you to go respond only according to the following information given below:
+        
+       [1] I want you to analyze the provided medical details of a few patients from the given database {database}. Focus on the following keys and their descriptions:
         - Topic heading: Type of ailment
         - Gender: Gender of patient
         - General Patient Text: Preventative measures for the ailment (patient-specific advice)
         - Health Provider Text: Preventative measures for the ailment from external sources (general advice)
         - Subject: Description of patient
 
-        Carefully consider the user's specific details provided in the {user_input} (age, symptoms, etc.) and tailor your response accordingly.
+        [2] Carefully consider the user's specific details provided in the {user_input} (age, symptoms, etc.) and tailor your response accordingly.
         Synthesize information from the relevant keys to answer the {user_input}. Prioritize patient-specific advice from "General Patient Text." If "General Patient Text" is "n/a," provide the external link in "Health Provider Text" while acknowledging the absence of patient-specific advice. If "Health Provider Text" is "n/a", rely solely on "General Patient Text."
         Provide your answer in a concise paragraph, addressing the user's query directly. Additionally, if the user's question pertains to preventative measures or external resources, extract and display any relevant links found within "General Patient Text" or "Health Provider Text." Present the links clearly and indicate their source (e.g., "Link from General Patient Text: [link]")
         Present the links using Markdown formatting to make them clickable. For example, use (link URL) to create a clickable link. 
 
-        Answer:
+        [3] You have to keep track of the chat history {chat_history}, remember the conversation and respond accordingly. You should not forget what the user inputted earlier.        
+
+        Answer :
         """
     )
 
+    # 
 
-def rag_run(prompt_template,user_input,vector_store):
+
+def rag_run(prompt_template,user_input,vector_store,chat_history):
+
     retriever = vector_store.as_retriever()
+
     rag_chain = (
-        {"database": retriever, "user_input": RunnablePassthrough()}
+        {"database": retriever, "user_input": RunnablePassthrough(), "chat_history" : lambda x : chat_history}
         | prompt_template
         | llm
         | StrOutputParser()
@@ -95,7 +104,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 if len(st.session_state.messages) == 0:
-    initial_prompt = '''Introduce yourself as Dox, an assistant powered by Google Gemini. '''  
+    initial_prompt = '''Introduce yourself as Doxy, a medical assistant only giving information related to prevention of diseases powered by Google Gemini. '''  
     # message = llm.generate_content(initial_prompt)
     message = llm.invoke(initial_prompt)
     # display_message(1,message.candidates[0].content.parts[0].text) 
@@ -104,9 +113,10 @@ if len(st.session_state.messages) == 0:
 if user_text := st.chat_input("What's up?"):
     display_message(0,user_text)
     
+    #Chat history
     conversation_history = "\n".join([f"{msg['role']}: {msg['content']}" for msg in st.session_state.messages])
     full_prompt = conversation_history + "\nuser: " + user_text
     # message = llm.generate_content(full_prompt)
     # print(user_text)
-    message = rag_run(prompt,user_text,vector_store)
+    message = rag_run(prompt,user_text,vector_store,full_prompt)
     display_message(1,message)
