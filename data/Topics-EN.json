@@ -1,0 +1,472 @@
+[
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Screen men age 65-80 with ultrasound once",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "[[CTFPHC 2017; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",
+      "Gender": "m",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Between ages 65 and 80 ask your provider about an ultrasound to detect an AAA ",
+      "General Patient Text": "• Your provider may ask for an ultrasound of your belly\r\nto detect a bulge in the main blood vessel \r\n(the bulge is nicknamed AAA for short or Abdominal Aortic Aneurysm)\r\n• If the bulge grows it can burst and cause death.\r\n• [[Recommendation; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",
+      "Health Provider Text": "n/a",
+      "Gender": "m",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Screening not recommended for men older than 80 years old ",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "[[Weak recommendation by CTFPHC 2017; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",
+      "Gender": "m",
+      "Minimum age": 81,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Screening not recommended for women of all ages. ",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "[[Strong recommendation, very low quality of evidence CTFPHC 2017; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",
+      "Gender": "f",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Screening for AAA in trans and non binary patients",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "At this time we could not find a Canadian reference on this topic. In the UK trans females and non binary patients who were assigned male sex at birth are advised to have an abdominal ultrasound to detect AAA between ages 65 and 80. Trans males can have a screening ultrasound if they wish but the risk of an aneurysm is mentioned as  being less.\r\n[[Reference; https://www.gov.uk/government/publications/nhs-population-screening-information-for-transgender-people]]",
+      "Gender": "tm,tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Aorta",
+      "Topic heading": "Aorta",
+      "Subject": "Between 65 and 80 you may need a test",
+      "General Patient Text": "Canadian guidelines on screening for abdominal aortic aneurysm (AAA: a bulge in the main blood vessel of the body that can be dangerous) in trans and non binary people were not found. In the UK the following is recommended:\r\n• If you are a trans female or non binary with sex assigned at birth as male you are advised to have an ultrasound to detect an abdominal aortic aneurysm. Speak to your provider about this.\r\n\r\n• Currently trans males, and those who are non binary with sex assigned at birth as female, may not be advised to have this test.\r\n\r\n Research may change in this area. Speak to your health care provider.",
+      "Health Provider Text": "n/a",
+      "Gender": "tm,tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Information",
+      "General Patient Text": "•\tPhysical exercise and a healthy diet keep your bones strong and prevent Osteoporosis.\r\n•\tSome providers (Rainbow Health Ontario) recommend that all patients on hormone therapy ensure a daily intake of 1200 mg of calcium (diet + supplementation) and 1000 IU of vitamin D. \r\nMore information on [[calcium and vitamin D; https://osteoporosis.ca/nutrition/]]\r\n\r\n• Bone density testing is  recommended by Osteoporosis Canada for all genders at age 70. \r\n[[Medical reference; https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf]]\r\n•The Canadian Task Force on Preventive Health Care recommends using this [[calculator; https://frax.canadiantaskforce.ca/]] but some recommend combining male and female scores depending on the length of hormone treatment. Speak to your provider.\r\n\r\n•\tYou may need bone density testing earlier if: you had an orchiectomy (removal of the testes) or you are/were on a testosterone or puberty blocker (such as spironolactone, cyproterone or Lupron), and you were taking no/low doses of hormone therapy.\r\n\r\n•\tYou may also need testing earlier if you have other [[risk factors; https://www.canada.ca/en/public-health/services/chronic-diseases/osteoporosis.html]].These are the same risk factors as for cisgender patients. Discuss any concerns you may have with your primary care provider.\r\n\r\n\r\n•\tIf you have been medically transitioning, consider using an average of both the female and male calculators to calculate your own fracture risk.\r\n\r\n",
+      "Health Provider Text": "\r\n• Bone density testing is  recommended by [[Osteoporosis Canada 2023 guideline; https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf]] for all genders at age 70. \r\n•The Canadian Task Force on Preventive Health Care recommends using this [[calculator; https://frax.canadiantaskforce.ca/]] but some recommend combining male and female scores depending on the length of hormone treatment. \r\nNone of these tools have been studied in trans and non binary populations.\r\n•\tAs per the current guidelines for the general population, screening with BMD should be considered for younger patients who have [[risk factors for osteoporosis; https://www.canada.ca/en/public-health/services/chronic-diseases/osteoporosis.html]]\r\n\r\n•\tFor trans women and people on the transfeminine spectrum, this also includes anyone who, regardless of age:\r\n1) Has a history of hypogonadism/gonadectomy, and a history of insufficient (no/low-dose/intermittent) hormone replacement (UCSF recommends > 5 years without hormones to qualify; RHO recommends > 2 years; Endrocine Society, ISCD and TransCare BC do not specify a minimum amount of time).\r\n2) A history of taking an anti-androgen/GnRH analogue without exogenous hormones (RHO, ISCD).\r\n3) Is not adherent to hormone therapy or has taken it intermittently (Endocrine Society, TransCare BC)\r\n\r\n•\tThe RHO recommends that all patients on hormone therapy ensure a daily intake of 1200 mg of calcium and 1000 IU of vitamin D.",
+      "Gender": "tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Resources",
+      "General Patient Text": "•\tFor more information about osteoporosis [[click here; https://strwebstgmedia.blob.core.windows.net/media/libmnjci/transgender-people-and-osteoporosis-fact-sheet-march-2018.pdf]]\r\n•\t[[RHO; https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/]]\r\n•\t[[UCSF Transcare guidelines; https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf]]\r\n•\t[[Endocrine Society guidelines; https://academic.oup.com/jcem/article/102/11/3869/4157558]]",
+      "Health Provider Text": "n/a",
+      "Gender": "tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Tips and Resources",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "•\tWhen assessing for osteoporosis, consider assessing risk using an average of the results obtained using both a female and male calculator [[risk calculator; https://frax.canadiantaskforce.ca/]] (UCSF).\r\n•\tThe ISCD suggests that the Z-score should generally be derived from comparison to the reference data of the patient’s affirmed gender for binary transgender patients (i.e. who identify as solely male or female), and to the gender assigned at birth in non-binary patients (ISCD).\r\n•\t [[RHO guidelines; https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/]]\r\n•\t [[UCSF Transcare guidelines; https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf]]\r\n•\t [[Endocrine Society guidelines; https://academic.oup.com/jcem/article/102/11/3869/4157558]]\r\n",
+      "Gender": "tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Information",
+      "General Patient Text": "•\tPhysical exercise and a healthy diet keep your bones strong and prevent Osteoporosis.\r\n•\tSome providers (Rainbow Health Ontario) recommend that all patients on hormone therapy ensure a daily intake of 1200 mg of calcium (diet + supplementation) and 1000 IU of vitamin D. \r\nMore information on [[calcium and vitamin D; https://osteoporosis.ca/nutrition/]]\r\n\r\n• Bone density testing is  recommended by Osteoporosis Canada for all genders at age 70. [[Medical reference; https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf]]\r\n•The Canadian Task Force on Preventive Health Care recommends using this [[calculator; https://frax.canadiantaskforce.ca/]] but some recommend combining male and female scores depending on the length of hormone treatment. Speak to your provider.\r\n•\tYou may need bone density testing earlier if: you had an oophorectomy (removal of the ovaries) or you are/were on a puberty blocker (such as Lupron), and you were taking no/low doses of hormone therapy.\r\n•\tYou may also need testing earlier if you have other [[risk factors; https://www.canada.ca/en/public-health/services/chronic-diseases/osteoporosis.html]].These are the same risk factors as for cisgender patients. Discuss any concerns you may have with your primary care provider.\r\n\r\n",
+      "Health Provider Text": "• Bone density testing is  recommended by [[Osteoporosis Canada 2023 guideline; https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf]] for all genders at age 70. \r\n•The Canadian Task Force on Preventive Health Care recommends using this [[calculator; https://frax.canadiantaskforce.ca/]] but some recommend combining male and female scores depending on the length of hormone treatment. Speak to your provider.\r\n•\tAs per the current guidelines for the general population, screening with BMD should be considered for younger patients who have risk factors for osteoporosis. For trans men and people on the transmasculine spectrum, this also includes anyone who, regardless of age:\r\n1) Has a history of hypogonadism/gonadectomy, and a history of insufficient (no/low-dose/intermittent) hormone replacement (UCSF recommends > 5 years without hormones to qualify; RHO recommends > 2 years; Endocrine Society, ISCD and TransCare BC do not specify a minimum amount of time).\r\n2) A history of taking a GnRH analogue without exogenous hormones (RHO, ISCD).\r\n3) Is not adherent to hormone therapy or has taken it intermittently (Endocrine Society, TransCare BC).\r\n•\tThe RHO recommends that all patients on hormone therapy ensure a daily intake of 1200 mg of calcium and 1000 IU of vitamin D.",
+      "Gender": "tm",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Resources",
+      "General Patient Text": "•\tFor more information about osteoporosis [[click here; https://strwebstgmedia.blob.core.windows.net/media/libmnjci/transgender-people-and-osteoporosis-fact-sheet-march-2018.pdf]]\r\n•\t[[RHO guidelines; https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf]]\r\n•\t[[UCSF Transcare guidelines; https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf]]\r\n•\t[[Endocrine Society guidelines; https://academic.oup.com/jcem/article/102/11/3869/4157558]]",
+      "Health Provider Text": "n/a",
+      "Gender": "tm",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Tips and Resources",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "•\tWhen assessing for osteoporosis, consider assessing risk using an average of the results obtained using both a female and male calculator [[risk calculator; https://www.sheffield.ac.uk/FRAX/]] (TransCare BC).\r\n•\tThe ISCD suggests that the Z-score should generally be derived from comparison to the reference data of the patient’s affirmed gender for binary transgender patients (i.e. who identify as solely male or female), and to the gender assigned at birth in non-binary patients (ISCD).\r\n•\t[[RHO guidelines; https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf]]\r\n•\t[[UCSF Transcare guidelines; https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf]]\r\n•\t[[Endocrine Society guidelines; https://academic.oup.com/jcem/article/102/11/3869/4157558]]",
+      "Gender": "tm",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Exercises",
+      "General Patient Text": "[[Recommendations; https://osteoporosis.ca/exercise/]] or use [[Videos; https://osteoporosis.ca/video-series-on-exercise-and-osteoporosis/]]                                                                                                                                                                                                                                                       ",
+      "Health Provider Text": "[[Recommendations; https://osteoporosis.ca/exercise/]] or use [[Videos; https://osteoporosis.ca/video-series-on-exercise-and-osteoporosis/]]      ",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Nutrition",
+      "General Patient Text": "•Eating healthy is important to build and keep strong bones\r\n[[Click here for more info; https://osteoporosis.ca/nutrition/]]\r\n\r\n•[[Click here for a calcium calculator; https://osteoporosis.ca/calcium-calculator/]]",
+      "Health Provider Text": "•\tA healthy diet prevents osteoporosis\r\n[[Osteoporosis.ca; https://osteoporosis.ca/nutrition/]]\r\n•[[Calcium calculator; https://osteoporosis.ca/calcium-calculator/]]\r\n\r\n",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Vitamin D-Calcium",
+      "General Patient Text": "•Calcium: 1000mg/day •Vitamin D: 400-1000 IU/day\r\n•Exception:\r\n if age 18 or pregnant or breastfeeding :you need \r\nCalcium: 1300 mg/day; Vitamin D: 600 IU/ day\r\n\r\n•[[Calcium; https://osteoporosis.ca/calcium/]]\r\n•[[Vitamin D; https://osteoporosis.ca/vitamin-d/]]\r\n•[[Calcium calculator; https://osteoporosis.ca/calcium-calculator/]]",
+      "Health Provider Text": "•Calcium: 1000mg/day; Vitamin D: 400-1000 IU/day\r\n•Exception: if age 18 or pregnant or breastfeeding :\r\nCalcium: 1300 mg/day; Vitamin D: 600 IU/ day\r\n\r\n•[[Calcium; https://osteoporosis.ca/calcium/]]\r\n•[[Vitamin D; https://osteoporosis.ca/vitamin-d/]]\r\n•[[Calcium calculator; https://osteoporosis.ca/calcium-calculator/]]",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 49
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Vitamin D-Calcium",
+      "General Patient Text": "•Calcium: 1200mg/day\r\n•Vitamin D: 800-2000 IU/day.\r\n Taking more than 2000 IU a day of vitamin D should be done under medical supervision \r\n\r\n•[[Calcium; https://osteoporosis.ca/calcium/]]\r\n•[[Vitamin D; https://osteoporosis.ca/vitamin-d/]]\r\n•[[Calcium calculator; https://osteoporosis.ca/calcium-calculator/]]",
+      "Health Provider Text": "•Calcium: 1200mg/day\r\n•Vitamin D: 800-2000 IU/day\r\n\r\n•\t[[Calcium; https://osteoporosis.ca/calcium/]]\r\n•\t[[Vitamin D; https://osteoporosis.ca/vitamin-d/]]\r\n•[[Calcium calculator; https://osteoporosis.ca/calcium-calculator/]]\r\n",
+      "Gender": "all",
+      "Minimum age": 50,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Bone Density Test",
+      "General Patient Text": "Below age 65: only recommended if: you have [[risk factors; https://frax.canadiantaskforce.ca/index.php?r=site%2Frisks]]\r\n[[More info; https://choosingwiselycanada.org/pamphlet/bone-density-tests/]]\r\n[[Calculator; https://frax.canadiantaskforce.ca/]]",
+      "Health Provider Text": "•<65 yo BDM only if the patient has  [[risk factors; https://frax.canadiantaskforce.ca/index.php?r=site%2Frisks]]\r\n•[[Canadian Task Force 2023 Decision aid; https://frax.canadiantaskforce.ca/]]\r\n•[[Canadiant Task Force 2023 guideline; https://www.cmaj.ca/content/cmaj/195/18/E639.full.pdf]]\r\n•[[Osteoporosis Canada 2023 guideline; https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf]]\r\n•[[BDM Choosing Wisely; https://choosingwiselycanada.org/pamphlet/bone-density-tests/]]",
+      "Gender": "m,f",
+      "Minimum age": 18,
+      "Maximum age": 64
+    },
+    {
+      "Button": "Bone",
+      "Topic heading": "Bone Health",
+      "Subject": "Prevent fragility fractures",
+      "General Patient Text": "There are 2 different guidelines :\r\n(<Canadian Task Force 2023:>)\r\n• Women 65 and over can use this [[calculator; https://frax.canadiantaskforce.ca/]] and see their primary care provider to discuss if a bone density is necessary\r\n• Men of all ages  and women below 65 are not advised to have a bone density unless they have [[risk factors; https://frax.canadiantaskforce.ca/index.php?r=site%2Frisks]]\r\n\r\n •(<Osteoporosis Canada 2023>) recommends a bone density testing   for all genders at age 70. [[Medical reference; https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf]]\r\n•\t[[more info; https://choosingwiselycanada.org/bone-density-tests/]]\r\n",
+      "Health Provider Text": "\r\nThere are 2 different guidelines :\r\n(<Canadian Task Force 2023:>)\r\nWill save time and health care dollars.\r\nEvidence-based with multiple systematic reviews (methodology documented)  \r\n• Women 65 and over: use this [[calculator; https://frax.canadiantaskforce.ca/]] and see their primary care provider to discuss if a bone density is necessary\r\n• Men of all ages  and women below 65 are not advised to have a bone density unless they have [[risk factors; https://frax.canadiantaskforce.ca/index.php?r=site%2Frisks]]\r\n•[[Guideline; https://www.cmaj.ca/content/cmaj/195/18/E639.full.pdf]]\r\n\r\n(<Osteoporosis Canada 2023 guideline:>)\r\nBone density test recommended for everyone 70+ for all genders:\r\n•[[Full guideline; https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf]]\r\n\r\n\r\n",
+      "Gender": "m,f",
+      "Minimum age": 65,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Breast",
+      "Topic heading": "Breast Cancer",
+      "Subject": "Prevent Breast Cancer",
+      "General Patient Text": "• See how to [[reduce your risk of  breast cancer; https://cancer.ca/en/cancer-information/cancer-types/breast/risks/reducing-your-risk]]\r\n\r\n•Calculate your risk with these tools:\r\n-[[Ibis  tool; https://ibis.ikonopedia.com/]] \r\nIf risk is above 15% contact your provider or local breast screening program.\r\n -[[Mycanceriq; https://www.mycanceriq.ca/Cancers/Risk]]\r\n\r\n• Ages for breast cancer screening are changing in different provinces and territories. Check your province or territory's information.\r\nSee the [[Canadian Task Force recommendation; https://canadiantaskforce.ca/what-is-the-breast-cancer-screening-guidance-in-canada/]]\r\n",
+      "Health Provider Text": "n/a",
+      "Gender": "f",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Breast",
+      "Topic heading": "Breast Cancer",
+      "Subject": "Testing for breast cancer",
+      "General Patient Text": "•(<If you have breast symptoms>) (pain, lump, discharge or other [[breast cancer symtoms; https://cancer.ca/en/cancer-information/cancer-types/breast/signs-and-symptoms]]) see your health professional as soon as possible.\r\n\r\n•(<If you have no symptoms>) or [[risks;  http://www.cancer.ca/en/cancer-information/cancer-type/breast/risks/?region=on]] you may qualify for a screening mammogram ( a mammogram that is not for symptoms, but is for  a healthy person):\r\n-(<40 to 49:years old>): discuss with your primary care provider the pros and cons of screening or visit your provincial or territorial website for breast screening.\r\n-(<50 to 74 years old>): mammograms are recommended every 2-3 years.\r\n\r\nSee the [[Canadian Task Force recommendation; https://canadiantaskforce.ca/what-is-the-breast-cancer-screening-guidance-in-canada/]]\r\n\r\n",
+      "Health Provider Text": "n/a",
+      "Gender": "f",
+      "Minimum age": 40,
+      "Maximum age": 74
+    },
+    {
+      "Button": "Breast",
+      "Topic heading": "Breast Cancer",
+      "Subject": "Age 75 and over",
+      "General Patient Text": "Research does not recommend mammograms age 75 and over, but if you are healthy you may discuss further testing with your health care provider.",
+      "Health Provider Text": "n/a",
+      "Gender": "f",
+      "Minimum age": 75,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Breast",
+      "Topic heading": "Breast Cancer",
+      "Subject": "Prevent and screen for Breast Cancer",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "\r\n2 Risk calculators for patients;\r\n[[Ibis  tool; https://ibis.ikonopedia.com/]] \r\n[[Mycanceriq; https://www.mycanceriq.ca/Cancers/Risk]]\r\n\r\nScreening Mammograms:\r\n•\t40-49: Some provinces/territories starting at 40 or 45 , shared decision-making.\r\n•\t50-74:  Every 2-3 years\r\n[[CTFPHC update; https://canadiantaskforce.ca/tools-resources/breast-cancer-update/breast-cancer-update-faqs/]] \r\n•\t75+: Not recommended by canadiantaskforce.ca, but:\r\n[[CFP article 2019 on when to stop screening; https://www.cfp.ca/content/cfp/65/8/543.full.pdf]]\r\n\r\nHigh risk patients:\r\nProvinces and territories vary in their approach to high-risk screening.\r\nThe [[Ibis  tool; https://ibis.ikonopedia.com/]]  can be used to determine if high risk (20-25% risk or more )",
+      "Gender": "f",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Breast/Chest",
+      "Topic heading": "Breast Cancer",
+      "Subject": "Information ",
+      "General Patient Text": "•        If you are taking estrogen and have breasts, you need regular screening mammograms depending on your age.\r\n•        The recommendation is for you to have a mammogram every 2 years from age 50 to 74.\r\n•        Some primary care providers may recommend that you only start undergoing mammograms at age 50 if you have been on estrogen for at least 5 years.\r\n",
+      "Health Provider Text": "•\tTrans women and people on the transfeminine spectrum who are on feminizing hormone therapy should undergo breast cancer screening as per current guidelines for cis women.\r\n•\tThe current recommendation is a mammogram every 2 years from age 50-74.\r\n•\tSome guidelines (such as those by RHO and UCSF) specify to only start once the patient has been on feminizing hormone therapy for > 5 years total (up to 10 years according to UCSF), whereas others do not specify a minimum hormone duration use.\r\n• Note that the presence of breast implants generally necessitates diagnostic mammography rather than routine screening mammography (RHO)",
+      "Gender": "tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Breast/Chest",
+      "Topic heading": "Breast Cancer",
+      "Subject": "Resources",
+      "General Patient Text": "•       [[Overview of breast cancer screening for trans women in Canada; https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-women-and-breast-cancer-screening/?region=on/]]\r\n•       [[RHO guidelines; https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf]]\r\n•       [[UCSF Transcare guidelines; https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf ]]\r\n•       [[Endocrine Society guidelines; https://academic.oup.com/jcem/article/102/11/3869/4157558]]",
+      "Health Provider Text": "n/a",
+      "Gender": "tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Breast/Chest",
+      "Topic heading": "Breast Cancer",
+      "Subject": "Tips and Resources",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "\r\n•\t[[Overview of breast cancer screening for trans women in Canada; https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-women-and-breast-cancer-screening/?region=bc]]\r\n•\t[[RHO guidelines; https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf]]\r\n•\t[[UCSF Transcare guidelines; https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf]]\r\n•\t[[Endocrine Society guidelines; https://academic.oup.com/jcem/article/102/11/3869/4157558]]",
+      "Gender": "tf",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Breast/Chest",
+      "Topic heading": "Chest Cancer",
+      "Subject": "Information ",
+      "General Patient Text": "•\tIf you have not had top surgery to remove breast tissue in its entirety (also known as a mastectomy), you need a mammogram every 2 years from age 50 to 74.\r\n•\tYou still need mammograms even if you have had a breast reduction (and not a mastectomy).\r\n•\tIf you have had a mastectomy, discuss whether you need regular chest exams with your primary care provider; it is generally not the case.",
+      "Health Provider Text": "•\tTrans men and people on the transmasculine spectrum who have not had a bilateral mastectomy should undergo breast cancer screening, as per the current guidelines for cis women.\r\n•\tThe current recommendation for cis women is a mammogram every 2 years from age 50-74.\r\n•\tThere is currently no reliable evidence on screening for trans men and people on the transmasculine spectrum patients who have had a mastectomy; consider discussing the unknown risks associated with residual breast tissue, as well as the possible technical limitations of mammography (UCSF).\r\n•\tConsider continuing regular monitoring for breast cancer even after mastectomy, as mastectomies usually do not remove breast tissue in its entirety; the Endocrine Society suggests conducting sub- and periareolar annual breast examinations if the patient has undergone a mastectomy, whereas UCSF cautions against it (not evidence-based).",
+      "Gender": "tm",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Breast/Chest",
+      "Topic heading": "Chest Cancer",
+      "Subject": "Resources",
+      "General Patient Text": "•\t[[Overview of breast cancer screening for trans men in Canada; https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-men-and-chest-cancer-screening/?region=on]]\r\n•\t[[RHO guidelines; https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf]]\r\n•\t[[UCSF Transcare guidelines; https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf]]\r\n•\t[[Endocrine Society guidelines; https://academic.oup.com/jcem/article/102/11/3869/4157558]]",
+      "Health Provider Text": "n/a",
+      "Gender": "tm",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Breast/Chest",
+      "Topic heading": "Chest Cancer",
+      "Subject": "Tips and Resources",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "•\tBe mindful of the language you use when referring to traditionally gendered body parts, as certain words may make patients feel uncomfortable — consider following the patients lead with regards to terminology (e.g. some trans men may prefer to refer to their breasts as their “chest”).\r\n•\tNote that mastectomy typically does not involve the removal of all breast tissue, and that some may still remain in place, meaning that patients could still be at risk of breast cancer (TransCare BC).\r\n•\tIf an abnormality is noted on the exam of a trans man who had a mastectomy, ultrasound +/- MRI is indicated as mammography is technically difficult or may be impossible (RHO).\r\n•\t[[Overview of breast cancer screening for trans men in Canada; https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-men-and-chest-cancer-screening/?region=on]]\r\n•\t[[RHO guidelines; https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf]]\r\n•\t[[UCSF Transcare guidelines; https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf]]\r\n•\t[[Endocrine Society guidelines; https://academic.oup.com/jcem/article/102/11/3869/4157558]]",
+      "Gender": "tm",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Colon",
+      "Topic heading": "Colorectal Cancer",
+      "Subject": "Screen",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "Age 50-74:\r\n•\tFOBT or FIT (depending on province) every 2y or\r\n•\tFlexible sigmoidoscopy every 10 years\r\n•\tColonoscopy not recommended in Canada for low risk: 1/2000 risk of perforation, no evidence yet,ongoing RCTs\r\n[[Canadian task force 2016; https://canadiantaskforce.ca/guidelines/published-guidelines/colorectal-cancer/]]\r\n[[CFP article on when to stop screening; https://www.cfp.ca/content/cfp/65/8/543.full.pdf]]\r\nFOBT=Fecal occult blood test\r\nFIT= Fecal immunochemical test\r\n•\tColonoscopy recommended for high risk patients\r\nClick to see [[Canadian association of gastroenterology guideline 2018; https://www.cag-acg.org/images/publications/CAG_CPG_CRC_Screening_Aug2018.pdf]]",
+      "Gender": "all",
+      "Minimum age": 50,
+      "Maximum age": 74
+    },
+    {
+      "Button": "Colon",
+      "Topic heading": "Colorectal Cancer",
+      "Subject": "Get tested for Bowel Cancer",
+      "General Patient Text": "Age 50 to 74:\r\n•\tDo a stool test (\"poop test\") every 2 years\r\n(see your health care provider for a kit)\r\n•\tOr do another test called Flexible Sigmoidoscopy every 10 years \r\n(not common, discuss with your provider if available)\r\n•\tColonoscopy is not recommended if you have no symptoms or family history of colon cancer.\r\nIt has a risk of perforation of the bowel of 1/2000\r\n\r\n[[more; https://canadiantaskforce.ca/tools-resources/colorectal-cancer-for-patients-2/]]",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 50,
+      "Maximum age": 74
+    },
+    {
+      "Button": "Colon",
+      "Topic heading": "Colorectal Cancer",
+      "Subject": "Testing to detect early cancer may not be useful at age 75 and over",
+      "General Patient Text": "Most people do not need to be screened at this time, \r\ndiscuss with your provider if you prefer to be screened.\r\n[[more; https://canadiantaskforce.ca/tools-resources/colorectal-cancer-for-patients-2/]]",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 75,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Colon",
+      "Topic heading": "Colorectal Cancer",
+      "Subject": "Prevent Colon Cancer",
+      "General Patient Text": "•\tBe physically active\r\n•\tMaintain a healthy body weight, [[bmi; https://cancer.ca/en/cancer-information/reduce-your-risk/have-a-healthy-body-weight/reduce-your-risk-of-cancer-with-a-healthy-body-weight]]\r\n•\tBe a non-smoker and avoid second hand smoke\r\n[[more; http://www.cancer.ca/en/cancer-information/cancer-type/colorectal/risks/reducing-your-risk/?region=on]]",
+      "Health Provider Text": "Recommend patients:\r\n•\tBe physically active\r\n•\tMaintain a healthy body weight, [[bmi; https://cancer.ca/en/cancer-information/reduce-your-risk/have-a-healthy-body-weight/reduce-your-risk-of-cancer-with-a-healthy-body-weight]]\r\n•\tLimit the amount of alcohol they drink (see healthy drinking guidelines)\r\n•\tBe a non-smoker and avoid second hand smoke\r\n•\tLimit the amount of red and processed meats eaten\r\n•\tEat foods high in fiber \r\n•\tLimit sitting time\r\n[[Source; http://www.cancer.ca/en/cancer-information/cancer-type/colorectal/risks/reducing-your-risk/?region=on]]",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 49
+    },
+    {
+      "Button": "Covid",
+      "Topic heading": "COVID-19",
+      "Subject": "Are you worried you have COVID-19?",
+      "General Patient Text": "Each province has their own recommendations. Look up [[your province's COVID website; https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/provincial-territorial-resources-covid-19.html]] or your local public health website.\r\nHere are some general resources: \r\n•\t[[Confused about COVID; https://dfcm.utoronto.ca/confused-about-covid]]\r\n•\t[[COVID Government of Canada; https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html]]",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Covid",
+      "Topic heading": "COVID-19",
+      "Subject": "Vaccines",
+      "General Patient Text": "\r\n\r\n•To book a vaccine appointment by province click [[here; https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1]]\r\nEach province has there specific information for COVID vaccination.\r\n",
+      "Health Provider Text": "Information is specific to each province , check with your provincial public health authority.\r\n[[Approved vaccines in Canada; https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines.html]]",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Covid",
+      "Topic heading": "COVID-19",
+      "Subject": "Elderly",
+      "General Patient Text": "•\tClick on: [[For the elderly and their caregivers; https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/resources-older-adults-caregivers.html]]\r\n\r\n•\tIf you need food or other help: \r\nPhone 211 or click on [[211 national website; https://211.ca]]\r\n\r\n\r\n•\tOr contact your local public health department, or municipality to find community services\r\n[[Public health info by province or territory; https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/provincial-territorial-resources-covid-19.html]]\r\n",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Covid",
+      "Topic heading": "COVID-19",
+      "Subject": "Indigenous",
+      "General Patient Text": "•\t[[First Nations; https://www.afn.ca/coronavirus/#factsheet]]\r\n•\t[[National Collaboration on Indigenous Health; https://www.nccih.ca/485/NCCIH_in_the_News.nccih?id=450]]\r\n",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Covid",
+      "Topic heading": "COVID-19",
+      "Subject": "Different languages",
+      "General Patient Text": "[[Ottawa public health; https://www.ottawapublichealth.ca/en/public-health-topics/multilingual-resources.aspx]]\r\n[[Ontario public health; https://www.publichealthontario.ca/en/diseases-and-conditions/infectious-diseases/respiratory-diseases/novel-coronavirus/public-resources]]\r\n[[Quebec multilingual; https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/informations-allophones-covid-19]]\r\n",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Covid",
+      "Topic heading": "COVID-19",
+      "Subject": "Updated research",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "Appraised evidence\r\n•\t[[MCMASTER EBM; https://plus.mcmaster.ca/COVID-19]]\r\n\r\nJournals\r\n•\t[[CMAJ; https://www.cmaj.ca/covid-19]]\r\n•\t[[BMJ; https://www.bmj.com/coronavirus]]\r\n•\t[[JAMA;https://jamanetwork.com/collections/46099/coronavirus-covid19]]\r\n•\t[[NEJM; https://www.nejm.org/coronavirus]]\r\n•\t[[The Lancet; https://www.thelancet.com/coronavirus/archive?]]\r\n\r\nPublic Health Agency of Canada\r\n•\t[[For health professionals; https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals.html]]",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Pancreas",
+      "Topic heading": "Diabetes Type 2",
+      "Subject": "National Indigenous Diabetes Association",
+      "General Patient Text": "•\t[[National Indigenous Diabetes Association; http://nada.ca/]]\r\n•\t[[Resources; https://nada.ca/resources/]]",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Pancreas",
+      "Topic heading": "Diabetes Type 2",
+      "Subject": "Prevent Diabetes",
+      "General Patient Text": "•\tEat a healthy diet\r\n•\tBe physically active\r\n•\tKeep your BMI healthy:18.5-24\r\n[[bmi; https://www.diabetes.ca/static/bmi-calculator.html ]]",
+      "Health Provider Text": "Recommend:\r\n•\tHealthy diet\r\n•\tPhysical activity\r\n•\tHealthy BMI: 18.5-24\r\n[[bmi; https://www.diabetes.ca/static/bmi-calculator.html ]]",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Pancreas",
+      "Topic heading": "Diabetes Type 2",
+      "Subject": "Get a blood test for Diabetes if you are at risk",
+      "General Patient Text": "You can use a calculator to see if you need one:\r\n•\t[[calculator 1; https://diabetes.ca/about-diabetes/take-the-test]]\r\n•\t[[calculator2; https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-patient-findrisc/]]",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Pancreas",
+      "Topic heading": "Diabetes Type 2",
+      "Subject": "Screen for Diabetes",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "Using a calculator is evidence-based (2016 CTFPHC).\r\nYour patient can be emailed this questionnaire or it can be filled in the waiting room.\r\n•            [[FINDRISC online calculator; https://qxmd.com/calculate/calculator_236/findrisc-diabetes-risk-calculator]]\r\n•\t[[FINDRISC pdf; https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-patient-findrisc/]]\r\n\r\nor \r\n•\t[[CANRISK online calculator;  https://diabetes.ca/about-diabetes/take-the-test]]\r\n•\t[[CANRISK pdf  available in different languages; https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-canrisk/]]                                         •            [[Canadian Diabetes Assoc 2018 screening guideline; https://guidelines.diabetes.ca/cpg/chapter4]]",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Needle in arm",
+      "Topic heading": "Immunization",
+      "Subject": "Recommendations",
+      "General Patient Text": "n/a",
+      "Health Provider Text": "Recommend the [[app CanImmunize; https://www.canimmunize.ca/en/home]]\r\n\r\n{{AGE 18 and above (ALL ADULTS)}}\r\nThe following schedule assumes the patient has  been vaccinated in childhood\r\n• (<Td>) (Tetanus-diphtheria) every 10 years\r\n• (<Tdap>)(Tetanus,diphtheria, acellular pertussis or whooping cough): once in your lifetime\r\n• (<Measles Mumps Rubella>):it is advised that  most adults should have  2 doses of this vaccine\r\n• (<HPV>): recommended for all females and males from ages 9 to 26. The vaccine is also safe over age 26. [[more; https://www.reframehealthlab.com/should-you-get-the-hpv-vaccine/]]\r\n• (<Influenza>): is recommended for all adults. For high risk groups see CanImmunize app\r\n• (<Pneumococcal, varicella, meningococcal are recommended for some high risk groups>) seeCANImmunize app\r\n\r\n{{AGE 50+}}\r\nNACI recommends offering a Shingles vaccine starting at 50, Shingrix preferred, but in most provinces the patient will need to pay for this in this age group.\r\n[[NACI 2018; https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2018-44/issue-9-september-6-2018/article-6-2018-naci-update-herpes-zoster-vaccines.html]]\r\n\r\n{{AGE 60+}}\r\n•Shingles vaccine if not already received , see info above. Check if covered in your province.\r\n•RSV: Arexvy is a new vaccine for RSV approved by Health Canada but no NACI recommendation is available. See your province's recommendation\r\n{{AGE 65+}}\r\n(<Shingles vaccine>) if not already given.\r\n• Yukon and Ontario cover Shingrix from 65-70. \r\n• For other provinces Zostavax  may be covered , check your provincial schedule\r\n(<Pneumococcal>)\r\n•PNEU-P-23 advised for all immunocompetent,\r\nrepeat once in 5 years only if low immunity.\r\n•Prevnar 20 advised as a better vaccine by NACI, not covered in most provinces\r\n(< Influenza>) yearly\r\n(<RSV>): Arexvy is a new vaccine for RSV approved by Health Canada but no NACI recommendation is available. See your province's recommendation. \r\n\r\nSOURCE: [[NACI; https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci.html]]",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Needle in arm",
+      "Topic heading": "Immunization",
+      "Subject": "Get immunized",
+      "General Patient Text": "For best information download the [[app CanImmunize; https://www.canimmunize.ca/en/home]]\r\n\r\n{{AGE 18-49}}\r\nThis schedule assumes you have been vaccinated in childhood\r\n•\t(<Td>) (Tetanus-diphtheria)(<every 10 years>)\r\n•\t(<Tdap>)(Tetanus,diphtheria, acellular pertussis or whooping cough):(<once in your lifetime>)\r\n•\t(<Measles Mumps Rubella>):it is advised that  most adults should have  2 doses of this vaccine\r\n•\t(<HPV>): recommended for all females and males from ages 9 to 26. The vaccine is also safe over age 26. [[more; https://www.reframehealthlab.com/should-you-get-the-hpv-vaccine/]]\r\n•\t(<Influenza>): is recommended for all adults. For high risk groups see CanImmunize app\r\n•\tPneumococcal, varicella,  meningococcal,shingles are recommended for some high risk groups seeCANImmunize app",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 18,
+      "Maximum age": 49
+    },
+    {
+      "Button": "Needle in arm",
+      "Topic heading": "Immunization",
+      "Subject": "Get immunized",
+      "General Patient Text": "• For best information download the [[app CanImmunize; https://www.canimmunize.ca/en/home]]\r\n\r\n{{AGE 50 and over}}:\r\nThis schedule assumes the patient has  been vaccinated in childhood\r\n• (<Td>) (Tetanus-diphtheria) every 10 years\r\n• (<Tdap>)(Tetanus,diphtheria, acellular pertussis or whooping cough): once in your lifetime\r\n• (<Measles Mumps Rubella>):it is advised that  most adults should have  2 doses of this vaccine\r\n• (<Influenza>): is recommended for all adults. For high risk groups see CanImmunize app\r\n• Pneumococcal, varicella,  meningococcal are recommended for some high risk groups seeCANImmunize app\r\n• (<Shingles vaccine>): \r\nThere are 2 vaccines against shingles: Shingrix and Zostavax. These vaccines are recommended at age 50 and above, but many provinces only pay for one or the other at later ages. Check with your provider.\r\nStudies show that Shingrix lasts longer for 50 and over but you may have to pay for this asmost provinces not funding yet \r\n\r\n{{AGE 60 and over}}:\r\n•RSV : a new vaccine Arexvy is available but most provinces are not funding this. Inquire with your provider if this is useful\r\n• Vaccines against Shingles: Shingrix or Zostavax\r\nSome studies show that Shingrix is more effective.\r\n2 provinces cover the costs of  Shingrix at this time: Yukon and Ontario: for patients aged 65 to 70. Check with your health care provider as this may change and it is important to get vaccinated against shingles to prevent complications.\r\n\r\n{{AGE 65 and over}}: \r\n• (<Shingles vaccine>): get it if you have not received it yet.\r\n• (<Pneumococcal>) : Pneumococcal 23 is paid for by your province,\r\nPrevnar 20 is recomended by NACI but may not be paid by your province, check with your provider\r\n• (<Influenza yearly>)\r\n•(<RSV>) \r\n A new vaccine Arexvy is available but most provinces are not funding this. Inquire with your provider if this is useful",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 50,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Needle in arm",
+      "Topic heading": "Immunization",
+      "Subject": "COVID vaccines",
+      "General Patient Text": "\r\n\r\n•To book a vaccine appointment by province click [[here; https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1]]\r\nEach province has there specific information for COVID vaccination.\r\n",
+      "Health Provider Text": "Information is specific to each province , check with your provincial public health authority.\r\n[[Approved vaccines in Canada; https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines.html]]",
+      "Gender": "all ",
+      "Minimum age": 18,
+      "Maximum age": 150
+    },
+    {
+      "Button": "Needle in arm",
+      "Topic heading": "Immunization",
+      "Subject": "Shingles vaccine",
+      "General Patient Text": "•\tShingles is a disease that can cause permanent pain and eye problems. There are 2 vaccines against shingles: Shingrix and Zostavax.\r\n\r\n•\tThese vaccines are recommended starting at 50 years old but most provinces pay for them only at later ages. Discuss this with your health care provider.\r\n\r\n•\tStudies show that Shingrix is more effective.\r\n2 provinces cover Shingrix currently: Yukon and Ontario for patients aged 65 to 70. Check with your health care provider which vaccine is covered in your province and when . It is important to get vaccinated to prevent complications",
+      "Health Provider Text": "n/a",
+      "Gender": "all",
+      "Minimum age": 50,
+      "Maximum age": 150
+    }
+  ]

@@ -13,7 +13,7 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"] = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
 
 loader = JSONLoader(
-        file_path='data/Aorta-EN.json',
+        file_path='data/Topics-EN.json',
         jq_schema='.',
         text_content=False)
 docs = loader.load()
