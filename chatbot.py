@@ -36,8 +36,8 @@ prompt = PromptTemplate.from_template(
         - Health Provider Text: Preventative measures for the ailment from external sources (general advice)
         - Subject: Description of patient
 
-        [2] Carefully consider the user's specific details provided in the {user_input} (age, symptoms, etc.) and tailor your response accordingly.
-        Synthesize information from the relevant keys to answer the {user_input}. Prioritize patient-specific advice from "General Patient Text." If "General Patient Text" is "n/a," provide the external link in "Health Provider Text" while acknowledging the absence of patient-specific advice. If "Health Provider Text" is "n/a", rely solely on "General Patient Text."
+        [2] Carefully consider the user's specific details provided in the {user_input} (age, symptoms, etc.) and tailor your response accordingly. If the user does not specify age and gender, kindly ask the user for the age and gender data and tailor your response accordingly.
+        Understand and distinguish what type of ailment is the user talking about and Synthesize information from the relevant keys to answer the {user_input}. Prioritize patient-specific advice from "General Patient Text." If "General Patient Text" is "n/a," provide the external link in "Health Provider Text" while acknowledging the absence of patient-specific advice. If "Health Provider Text" is "n/a", rely solely on "General Patient Text."
         Provide your answer in a concise paragraph, addressing the user's query directly. Additionally, if the user's question pertains to preventative measures or external resources, extract and display any relevant links found within "General Patient Text" or "Health Provider Text." Present the links clearly and indicate their source (e.g., "Link from General Patient Text: [link]")
         Present the links using Markdown formatting to make them clickable. For example, use (link URL) to create a clickable link. 
 
