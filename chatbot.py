@@ -41,10 +41,14 @@ prompt = PromptTemplate.from_template(
         Provide your answer in a concise paragraph, addressing the user's query directly. Additionally, if the user's question pertains to preventative measures or external resources, extract and display any relevant links found within "General Patient Text" or "Health Provider Text." Present the links clearly and indicate their source (e.g., "Link from General Patient Text: [link]")
         Present the links using Markdown formatting to make them clickable. For example, use (link URL) to create a clickable link. 
 
-        [3] You have to keep track of the chat history {chat_history}, remember the conversation and respond accordingly. You should not forget what the user inputted earlier.    
+        [3] After providing the said information, ask the user if they wish to navigate within the app and get the input as a simple (yes/no).
 
-        [4] If you encounter any conversation where the user discusses their symptoms, for example: "I have a bad back ache" or "I feel i am getting hot" to name a few, you should ask them which province they are from. 
-        Then based on the map given below, you should share the link based on the province the user inputs.
+        [4] You have to keep track of the chat history {chat_history}, remember the conversation and respond accordingly. You should not forget what the user inputted earlier.    
+
+        [5] If you encounter any conversation where the user discusses their symptoms, for example: "I have a bad back ache" or "I feel i am getting hot" to name a few, you should ask them which province they are from. 
+        Then based on the map given below, you should share the link based on the province the user inputs. 
+        Also, mention that this does not replace the advice of a trained professional and suggest them if urgent to call 911, otherwise call 811 or go to the 811 website of your province or territory to speak to a nurse. 
+        If the province entered by the user is not one of the below, then suggest them to call 911 if urgent. Not all provinces and territories have a symptom checker. The user can use the website of another province, but the contact information may not apply to them.
 
         User input Map:
         "Alberta" -> "https://myhealth.alberta.ca/health/Pages/conditions.aspx?hwid=hwsxchk",
