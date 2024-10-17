@@ -1,0 +1,37 @@
+{
+    "topic": "National Indigenous Diabetes Association",
+    "tag": "indigenous_diabetes_association",
+    "content": [
+      {
+        "section": "National Indigenous Diabetes Association",
+        "semantic_tag": "overview_indigenous_diabetes",
+        "tags": ["Indigenous", "Diabetes", "association", "resources", "Diabetes Association", "Indigenous Diabetes Association"],
+        "purpose": "To provide information about the National Indigenous Diabetes Association and its resources.",
+        "text": "To know more about the the National Indigenous Diabetes Association and its resources visit http://nada.ca/ or https://nada.ca/resources/. You can also view this information in our iCanBeWell application oc clicking 'Getting started' -> 'Provide input details' -> 'Click OK' -> Select 'Topics' -> select 'Show all' -> You will find 'Diabetes Type 2' from the list -> Expand each section to know more.",
+        "next_steps": [
+          {
+            "related_topic": "Prevent Diabetes",
+            "suggestion_text": "To learn how to prevent diabetes, check out the Prevent Diabetes section."
+          },
+          {
+            "related_topic": "Resources",
+            "suggestion_text": "Explore various resources provided by the National Indigenous Diabetes Association."
+          }
+        ]
+      },
+      {
+        "section": "Prevent Diabetes",
+        "semantic_tag": "prevent_diabetes",
+        "tags": ["prevention", "healthy diet", "physical activity", "BMI", "prevent diabetes", "calculate BMI"],
+        "purpose": "To provide actionable steps for preventing diabetes.",
+        "text": "To prevent diabetes, it is essential to:\n- Eat a healthy diet\n- Be physically active\n- Keep your BMI healthy: 18.5-24. To calculate BMI you can visit https://www.diabetes.ca/static/bmi-calculator.html. You can also view this information in our iCanBeWell application oc clicking 'Getting started' -> 'Provide input details' -> 'Click OK' -> Select 'Topics' -> select 'Show all' -> You will find 'Diabetes Type 2' from the list -> Expand each section to know more",
+        "next_steps": [
+          {
+            "related_topic": "Healthy Diets and Physically active",
+            "suggestion_text": "Check the'Nutrition' and 'Be Active' topics for more information on healthy diets and physical activity."
+          }
+        ]
+      }
+    ]
+    }
+      
