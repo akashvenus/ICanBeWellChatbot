@@ -5,32 +5,42 @@ from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 import os
 from dotenv import load_dotenv
 from collections import OrderedDict
+import json
 
 # Load environment variables from .env file
 load_dotenv()
 
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
-
+# Load the document
 loader = JSONLoader(
-        file_path='data/Topics-EN.json',
-        jq_schema='.',
+        file_path='data/HtmlTopic-EN-final.json',
+        jq_schema='.[] | {button: .Button, topic_heading: ."Topic heading", subject: .Subject, general_patient_text: ."General Patient Text", health_provider_text: ."Health Provider Text", gender: .Gender, min_age: ."Minimum age", max_age: ."Maximum age"}',
         text_content=False)
 docs = loader.load()
 
-# Load Semantics data
-# loader_semantics = JSONLoader(
-#     file_path='data/Semantics.json',
-#     jq_schema='.',
-#     text_content=False
-# )
-# semdocs = loader_semantics.load()
+#  With metadata
+for doc in docs:
+    page_content = json.loads(doc.page_content)
+    doc.metadata.update({
+    'button': page_content['button'],
+    'topic_heading': page_content['topic_heading'],
+    'gender': page_content['gender'],
+    'min_age': page_content['min_age'],
+    'max_age': page_content['max_age']
+        })
+    del page_content['button']
+    del page_content['topic_heading']
+    del page_content['gender']
+    del page_content['min_age']
+    del page_content['max_age']
+    doc.page_content = json.dumps(page_content)
+print(docs)
+
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=100, chunk_overlap=35)
 texts = text_splitter.split_documents(docs)
 
-#semantics data
-# semantics_texts = text_splitter.split_documents(semdocs)
 
 embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
@@ -41,24 +51,12 @@ try:
 except Exception as e:
     print(f"Error creating vector embeddings: {e}")
 
-# Convert semantics to embeddings
-# try:
-#     semantics_embeddings = embedding_model.embed_documents([doc.page_content for doc in semantics_texts])
-#     print("Vector embeddings for Semantics created successfully")
-# except Exception as e:
-#     print(f"Error creating vector embeddings for Semantics: {e}")
 
 # Initialize Chroma vector store
 vector_store = Chroma(embedding_function=embedding_model, persist_directory="data")
 
-# Add documents to the vector store
-vector_store.add_documents(documents=texts)
-
-# # Initialize Chroma vector store for Semantics
-# vector_store_semantics = Chroma(embedding_function=embedding_model, persist_directory="data/semantics")
-
-# # Add documents to the semantics vector store
-# vector_store_semantics.add_documents(documents=semantics_texts)
+# Add documents to the vector store 
+vector_store.add_documents(documents=texts) #Correction
 
 # Validate the setup
 try:
@@ -78,9 +76,4 @@ try:
 except Exception as e:
     print(f"Error during test query: {e}")
 
-    # navigation_query = input("Would you like to know how to navigate within the app? (yes/no): ")
     
-    # if navigation_query.lower() == "yes":
-    #     # Fetch navigation details using the same query
-    #     results_semantics = vector_store_semantics.search(query=test_query, search_type='similarity')
-
