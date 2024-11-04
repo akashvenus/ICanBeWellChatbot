@@ -5,23 +5,37 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
 import os
-from langchain_chroma import Chroma
+# from langchain_chroma import Chroma
+from langchain_milvus import Milvus
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from langchain_core.runnables import RunnablePassthrough
+from rag_model import connect_to_milvus
 
 load_dotenv()
 
-data_directory = os.path.join(os.path.dirname(__file__), "data")
+# data_directory = os.path.join(os.path.dirname(__file__), "data")
 
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
 
 st.title("Chatbot")
 
+MILVUS_HOST = os.getenv("MILVUS_HOST", "localhost")
+MILVUS_PORT = os.getenv("MILVUS_PORT", "19530")
+COLLECTION_NAME = os.getenv("COLLECTION_NAME", "medical_kb")
 
+connect_to_milvus()
 
 embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-vector_store = Chroma(embedding_function=embedding_model, persist_directory=data_directory)
+vector_store = Milvus(
+        embedding_function=embedding_model,
+        collection_name=COLLECTION_NAME,
+        connection_args={
+            "host": MILVUS_HOST,
+            "port": MILVUS_PORT
+        },
+        auto_id=True
+)
 
 llm = GoogleGenerativeAI(model='gemini-1.5-flash',api_key=os.getenv('GOOGLE_API_KEY'), temperature=0)
 
