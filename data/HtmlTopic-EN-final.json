@@ -606,8 +606,8 @@
         "General Patient Text": "(<Mediterranean diet>) proven to prevent heart disease Handout; Reference: https://www.healthquality.va.gov/guidelines/CD/lipids/DyslipidemiaMedDietTrifoldFINAL508c11Dec2020.pdf, Dietitians of Canada; Reference: https://www.dietitians.ca/DietitiansOfCanada/media/Documents/Mediterranean%20Diet%20Toolkit/Mediterranean-Diet-Toolkit-A-Guide-to-Healthy-Eating-(handout).pdf (<Heart and Stroke Foundation>) Healthy eating info; Reference: https://www.heartandstroke.ca/healthy-living/healthy-eating",
         "Health Provider Text": "(<Mediterranean diet>) proven in RCT to prevent cvs disease Handout; Reference: https://www.healthquality.va.gov/guidelines/CD/lipids/DyslipidemiaMedDietTrifoldFINAL508c11Dec2020.pdf, Dietitians of Canada; Reference: https://www.dietitians.ca/DietitiansOfCanada/media/Documents/Mediterranean%20Diet%20Toolkit/Mediterranean-Diet-Toolkit-A-Guide-to-Healthy-Eating-(handout).pdf (<Heart and Stroke Foundation>) Healthy eating info; Reference: https://www.heartandstroke.ca/healthy-living/healthy-eating",
         "Gender": "all",
-        "Minimum age": "all",
-        "Maximum age": "all"
+        "Minimum age": 18,
+        "Maximum age": 150
     },
     {
         "Button": "Heart",
