@@ -1,8 +1,8 @@
 from langchain_community.document_loaders import JSONLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_milvus import Milvus  # Updated import
-# from langchain_huggingface.embeddings import HuggingFaceEmbeddings
-from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+from langchain_huggingface.embeddings import HuggingFaceEmbeddings
+# from langchain_community.embeddings import HuggingFaceBgeEmbeddings
 import os
 from dotenv import load_dotenv
 from collections import OrderedDict
@@ -74,13 +74,13 @@ try:
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
     texts = text_splitter.split_documents(docs) 
      
-    # embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-    model_name = "BAAI/bge-small-en"
-    model_kwargs = {"device": "cuda"}
-    encode_kwargs = {"normalize_embeddings": True}
-    embedding_model = HuggingFaceBgeEmbeddings(
-        model_name=model_name, model_kwargs=model_kwargs, encode_kwargs=encode_kwargs
-    )
+    embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+    # model_name = "BAAI/bge-small-en"
+    # model_kwargs = {"device": "cuda"}
+    # encode_kwargs = {"normalize_embeddings": True}
+    # embedding_model = HuggingFaceBgeEmbeddings(
+    #     model_name=model_name, model_kwargs=model_kwargs, encode_kwargs=encode_kwargs
+    # )
 
     # Setup Milvus collection
     setup_milvus()
