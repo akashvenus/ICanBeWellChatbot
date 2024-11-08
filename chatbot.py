@@ -1,4 +1,3 @@
-from collections import OrderedDict
 import streamlit as st
 # import google.generativeai as genai
 from langchain_google_genai import GoogleGenerativeAI
@@ -6,22 +5,43 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
 import os
-from langchain_chroma import Chroma
+# from langchain_chroma import Chroma
+from langchain_milvus import Milvus
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from langchain_core.runnables import RunnablePassthrough
+from rag_model import connect_to_milvus
 
 load_dotenv()
 
-data_directory = os.path.join(os.path.dirname(__file__), "data")
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = " "
-#os.environ["HUGGINGFACEHUB_API_TOKEN"] = os.getenv("HUGGINGFACEHUB_API_TOKEN")
+# data_directory = os.path.join(os.path.dirname(__file__), "data")
+
+#For Tracing and logging
+os.environ["LANGCHAIN_TRACING_V2"]="true"
+os.environ["LANGCHAIN_PROJECT"]="ICanBeWellChatbot"
+os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
+
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
 st.title("Chatbot")
 
+MILVUS_HOST = os.getenv("MILVUS_HOST", "localhost")
+MILVUS_PORT = os.getenv("MILVUS_PORT", "19530")
+COLLECTION_NAME = os.getenv("COLLECTION_NAME", "medical_kb")
+
+connect_to_milvus()
+
 embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-vector_store = Chroma(embedding_function=embedding_model, persist_directory=data_directory)
-os.environ["GOOGLE_API_KEY"]= " "
-llm = GoogleGenerativeAI(model='gemini-1.5-flash',api_key=os.getenv('GOOGLE_API_KEY'))
+vector_store = Milvus(
+        embedding_function=embedding_model,
+        collection_name=COLLECTION_NAME,
+        connection_args={
+            "host": MILVUS_HOST,
+            "port": MILVUS_PORT
+        },
+        auto_id=True
+)
+
+llm = GoogleGenerativeAI(model='gemini-1.5-flash',api_key=os.getenv('GOOGLE_API_KEY'), temperature=0)
 
 prompt = PromptTemplate.from_template(
         """
@@ -69,13 +89,15 @@ prompt = PromptTemplate.from_template(
         """
     )
 
+    # 
+
 
 def rag_run(prompt_template,user_input,vector_store,chat_history):
 
     retriever = vector_store.as_retriever()
 
     rag_chain = (
-        {"database": retriever,  "user_input": RunnablePassthrough(), "chat_history" : lambda x : chat_history}
+        {"database": retriever, "user_input": RunnablePassthrough(), "chat_history" : lambda x : chat_history}
         | prompt_template
         | llm
         | StrOutputParser()
@@ -83,8 +105,6 @@ def rag_run(prompt_template,user_input,vector_store,chat_history):
 
     response = rag_chain.invoke(user_input)
     return response
-    # results = retriever.get_relevant_documents("I am 70 years old and I believe I have an issue with my aorta. Do I need an ultrasound?")
-    # return results
 
 #helper function to display and send streamlit messages
 def display_message(bin_switch:int,query:str):
@@ -126,8 +146,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 if len(st.session_state.messages) == 0:
-    initial_prompt = '''Introduce yourself as Well-Bot, an iCanBeWell app's medical assistant only giving information related to prevention of diseases powered by Google Gemini. ''' 
-    #initial_prompt = '''Introduce yourself as Doxy, a medical assistant only giving information related to prevention of diseases powered by Google Gemini. '''  
+    initial_prompt = '''Introduce yourself as Doxy, a medical assistant only giving information related to prevention of diseases powered by Google Gemini. '''  
     # message = llm.generate_content(initial_prompt)
     message = llm.invoke(initial_prompt)
     # display_message(1,message.candidates[0].content.parts[0].text) 
@@ -143,4 +162,3 @@ if user_text := st.chat_input("What's up?"):
     # print(user_text)
     message = rag_run(prompt,user_text,vector_store,full_prompt)
     display_message(1,message)
-
