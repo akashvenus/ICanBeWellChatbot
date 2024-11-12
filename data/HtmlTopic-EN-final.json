@@ -1,0 +1,1482 @@
+[
+    {
+        "Button": "Aorta",
+        "Topic heading": "Aorta",
+        "Subject": "Screen men age 65-80 with ultrasound once",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/",
+        "Gender": "m",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Aorta",
+        "Topic heading": "Aorta",
+        "Subject": "Between ages 65 and 80 ask your provider about an ultrasound to detect an AAA ",
+        "General Patient Text": "Your provider may ask for an ultrasound of your belly to detect a bulge in the main blood vessel (the bulge is nicknamed AAA for short or Abdominal Aortic Aneurysm) If the bulge grows it can burst and cause death.Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/",
+        "Health Provider Text": "n/a",
+        "Gender": "m",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Aorta",
+        "Topic heading": "Aorta",
+        "Subject": "Screening not recommended for men older than 80 years old ",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/",
+        "Gender": "m",
+        "Minimum age": 81,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Aorta",
+        "Topic heading": "Aorta",
+        "Subject": "Screening not recommended for women of all ages. ",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/",
+        "Gender": "f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Aorta",
+        "Topic heading": "Aorta",
+        "Subject": "Screening for AAA in trans and non binary patients",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "At this time we could not find a Canadian reference on this topic. In the UK trans females and non binary patients who were assigned male sex at birth are advised to have an abdominal ultrasound to detect AAA between ages 65 and 80. Trans males can have a screening ultrasound if they wish but the risk of an aneurysm is mentioned as being less. Reference: https://www.gov.uk/government/publications/nhs-population-screening-information-for-transgender-people",
+        "Gender": "tm,tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Aorta",
+        "Topic heading": "Aorta",
+        "Subject": "Between 65 and 80 you may need a test",
+        "General Patient Text": "Canadian guidelines on screening for abdominal aortic aneurysm (AAA: a bulge in the main blood vessel of the body that can be dangerous) in trans and non binary people were not found. In the UK the following is recommended: If you are a trans female or non binary with sex assigned at birth as male you are advised to have an ultrasound to detect an abdominal aortic aneurysm. Speak to your provider about this. Currently trans males, and those who are non binary with sex assigned at birth as female, may not be advised to have this test. Research may change in this area. Speak to your health care provider.",
+        "Health Provider Text": "n/a",
+        "Gender": "tm,tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Figure outside body walking",
+        "Topic heading": "Be Active",
+        "Subject": "Benefits of physical activity",
+        "General Patient Text": "Physical activity prevents heart disease, cancer, depression and more. See this great Reference: https://www.reframehealthlab.com/23-and-12-hours/ . For more info see this Reference: https://www.nhs.uk/live-well/exercise/",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Figure outside body walking",
+        "Topic heading": "Be Active",
+        "Subject": "Recommended physical activity",
+        "General Patient Text": "The recommended minimum amount of physical activity is: 150 minutes a week of moderate intensity exercise and muscle strengthening 2 times a week. Definition of moderate intensity: while you are active you have enough breath to say a short sentence but not enough to sing. Guideline for age 18-64, Reference: https://csepguidelines.ca/wp-content/uploads/2020/11/PA-24HGuidelines-ENG-Adults-18-64-2.png,, Guideline for age 65+, Reference: https://csepguidelines.ca/wp-content/uploads/2020/11/PA-24HGuidelines-ENG-Adults-65plus-2.png,, Exercise is Medicine, Reference: https://exerciseismedicine.org/canada/patient-focused-tools/",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Figure outside body walking",
+        "Topic heading": "Be Active",
+        "Subject": "More resources",
+        "General Patient Text": "Exercise videos General, Reference: https://www.ymcahome.ca/fitness,, chronic pain, Reference: https://www.youtube.com/@LEAPService/featured,, Diabetes resistance exercise, Reference: https://www.diabetes.ca/managing-my-diabetes/tools---resources/resistance-exercise-videos",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Information",
+        "General Patient Text": "Physical exercise and a healthy diet keep your bones strong and prevent Osteoporosis.Some providers (Rainbow Health Ontario) recommend that all patients on hormone therapy ensure a daily intake of 1200 mg of calcium (diet + supplementation) and 1000 IU of vitamin D. More information on calcium and vitamin D, Reference: https://osteoporosis.ca/nutrition/, Bone density testing is recommended by Osteoporosis Canada for all genders at age 70. Medical reference, Reference: https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf . The Canadian Task Force on Preventive Health Care recommends using this calculator, Reference: https://frax.canadiantaskforce.ca/, but some recommend combining male and female scores depending on the length of hormone treatment. Speak to your provider. You may need bone density testing earlier if: you had an orchiectomy (removal of the testes) or you are/were on a testosterone or puberty blocker (such as spironolactone, cyproterone or Lupron), and you were taking no/low doses of hormone therapy.You may also need testing earlier if you have other risk factors, Reference: https://www.canada.ca/en/public-health/services/chronic-diseases/osteoporosis.html.These, are the same risk factors as for cisgender patients. Discuss any concerns you may have with your primary care provider. If you have been medically transitioning, consider using an average of both the female and male calculators to calculate your own fracture risk.",
+        "Health Provider Text": "Bone density testing is recommended by Osteoporosis Canada 2023 guideline, Reference: https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf, for all genders at age 70. The Canadian Task Force on Preventive Health Care recommends using this calculator, Reference: https://frax.canadiantaskforce.ca/, but some recommend combining male and female scores depending on the length of hormone treatment. None of these tools have been studied in trans and non binary populations. As per the current guidelines for the general population, screening with BMD should be considered for younger patients who have risk factors for osteoporosis, Reference: https://www.canada.ca/en/public-health/services/chronic-diseases/osteoporosis.html, For trans women and people on the transfeminine spectrum, this also includes anyone who, regardless of age: 1) Has a history of hypogonadism/gonadectomy, and a history of insufficient (no/low-dose/intermittent) hormone replacement (UCSF recommends > 5 years without hormones to qualify; RHO recommends > 2 years; Endrocine Society, ISCD and TransCare BC do not specify a minimum amount of time). 2) A history of taking an anti-androgen/GnRH analogue without exogenous hormones (RHO, ISCD). 3) Is not adherent to hormone therapy or has taken it intermittently (Endocrine Society, TransCare BC) The RHO recommends that all patients on hormone therapy ensure a daily intake of 1200 mg of calcium and 1000 IU of vitamin D.",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Resources",
+        "General Patient Text": "For more information about osteoporosis click here, Reference: https://strwebstgmedia.blob.core.windows.net/media/libmnjci/transgender-people-and-osteoporosis-fact-sheet-march-2018.pdf,, RHO, Reference: https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/,, UCSF Transcare guidelines, Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf,, Endocrine Society guidelines, Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Health Provider Text": "n/a",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Tips and Resources",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "When assessing for osteoporosis, consider assessing risk using an average of the results obtained using both a female and male calculator risk calculator, Reference: https://frax.canadiantaskforce.ca/, (UCSF). The ISCD suggests that the Z-score should generally be derived from comparison to the reference data of the patient\u2019s affirmed gender for binary transgender patients (i.e. who identify as solely male or female), and to the gender assigned at birth in non-binary patients (ISCD).RHO guidelines, Reference: https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/ ,UCSF Transcare guidelines, Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf,, Endocrine Society guidelines, Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Information",
+        "General Patient Text": "Physical exercise and a healthy diet keep your bones strong and prevent Osteoporosis.Some providers (Rainbow Health Ontario) recommend that all patients on hormone therapy ensure a daily intake of 1200 mg of calcium (diet + supplementation) and 1000 IU of vitamin D. More information on calcium and vitamin D, Reference: https://osteoporosis.ca/nutrition/ . Bone density testing is recommended by Osteoporosis Canada for all genders at age 70. Medical reference, Reference: https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf . The Canadian Task Force on Preventive Health Care recommends using this calculator, Reference: https://frax.canadiantaskforce.ca/,, but some recommend combining male and female scores depending on the length of hormone treatment. Speak to your provider.You may need bone density testing earlier if: you had an oophorectomy (removal of the ovaries) or you are/were on a puberty blocker (such as Lupron), and you were taking no/low doses of hormone therapy. You may also need testing earlier if you have other risk factors, Reference: https://www.canada.ca/en/public-health/services/chronic-diseases/osteoporosis.html., These are the same risk factors as for cisgender patients. Discuss any concerns you may have with your primary care provider.",
+        "Health Provider Text": "Bone density testing is recommended by Osteoporosis Canada 2023 guideline, Reference: https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf,, for all genders at age 70. The Canadian Task Force on Preventive Health Care recommends using this calculator, Reference: https://frax.canadiantaskforce.ca/ , but some recommend combining male and female scores depending on the length of hormone treatment. Speak to your provider. As per the current guidelines for the general population, screening with BMD should be considered for younger patients who have risk factors for osteoporosis. For trans men and people on the transmasculine spectrum, this also includes anyone who, regardless of age: 1) Has a history of hypogonadism/gonadectomy, and a history of insufficient (no/low-dose/intermittent) hormone replacement (UCSF recommends > 5 years without hormones to qualify; RHO recommends > 2 years; Endocrine Society, ISCD and TransCare BC do not specify a minimum amount of time). 2) A history of taking a GnRH analogue without exogenous hormones (RHO, ISCD).3) Is not adherent to hormone therapy or has taken it intermittently (Endocrine Society, TransCare BC). The RHO recommends that all patients on hormone therapy ensure a daily intake of 1200 mg of calcium and 1000 IU of vitamin D.",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Resources",
+        "General Patient Text": "For more information about osteoporosis click here, Reference: https://strwebstgmedia.blob.core.windows.net/media/libmnjci/transgender-people-and-osteoporosis-fact-sheet-march-2018.pdf,, RHO guidelines, Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf,, Reference: UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Health Provider Text": "n/a",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Tips and Resources",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "When assessing for osteoporosis, consider assessing risk using an average of the results obtained using both a female and male calculator risk calculator; Reference: https://www.sheffield.ac.uk/FRAX/ (TransCare BC). The ISCD suggests that the Z-score should generally be derived from comparison to the reference data of the patient\u2019s affirmed gender for binary transgender patients (i.e. who identify as solely male or female), and to the gender assigned at birth in non-binary patients (ISCD). RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Exercises",
+        "General Patient Text": "Recommendations; Reference: https://osteoporosis.ca/exercise/, or use Videos; Reference: https://osteoporosis.ca/video-series-on-exercise-and-osteoporosis/",
+        "Health Provider Text": "Recommendations; Reference: https://osteoporosis.ca/exercise/, or use Videos; Reference: https://osteoporosis.ca/video-series-on-exercise-and-osteoporosis/",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Nutrition",
+        "General Patient Text": "Eating healthy is important to build and keep strong bones Click here for more info; Reference: https://osteoporosis.ca/nutrition/, Click here for a calcium calculator; Reference: https://osteoporosis.ca/calcium-calculator/",
+        "Health Provider Text": "A healthy diet prevents osteoporosis Osteoporosis.ca; Reference: https://osteoporosis.ca/nutrition/, Calcium calculator; Reference: https://osteoporosis.ca/calcium-calculator/",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Vitamin D-Calcium",
+        "General Patient Text": "Calcium: 1000mg/day Vitamin D: 400-1000 IU/day Exception: if age 18 or pregnant or breastfeeding :you need Calcium: 1300 mg/day; Vitamin D: 600 IU/ day Calcium; Reference: https://osteoporosis.ca/calcium/, Vitamin D; Reference: https://osteoporosis.ca/vitamin-d/, Calcium calculator; Reference: https://osteoporosis.ca/calcium-calculator/",
+        "Health Provider Text": "Calcium: 1000mg/day; Vitamin D: 400-1000 IU/day Exception: if age 18 or pregnant or breastfeeding : Calcium: 1300 mg/day; Vitamin D: 600 IU/ day Calcium; Reference: https://osteoporosis.ca/calcium/, Vitamin D; Reference: https://osteoporosis.ca/vitamin-d/, Calcium calculator; Reference: https://osteoporosis.ca/calcium-calculator/",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 49
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Vitamin D-Calcium",
+        "General Patient Text": "Calcium: 1200mg/day Vitamin D: 800-2000 IU/day. Taking more than 2000 IU a day of vitamin D should be done under medical supervision Calcium; Reference: https://osteoporosis.ca/calcium/, Vitamin D; Reference: https://osteoporosis.ca/vitamin-d/, Calcium calculator; Reference: https://osteoporosis.ca/calcium-calculator/",
+        "Health Provider Text": "Calcium: 1200mg/day Vitamin D: 800-2000 IU/day Calcium; Reference: https://osteoporosis.ca/calcium/, Vitamin D; Reference: https://osteoporosis.ca/vitamin-d/, Calcium calculator; Reference: https://osteoporosis.ca/calcium-calculator/",
+        "Gender": "all",
+        "Minimum age": 50,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Bone Density Test",
+        "General Patient Text": "Below age 65: only recommended if: you have risk factors; Reference: https://frax.canadiantaskforce.ca/index.php?r=site%2Frisks, More info; Reference: https://choosingwiselycanada.org/pamphlet/bone-density-tests/, Calculator; Reference: https://frax.canadiantaskforce.ca/",
+        "Health Provider Text": "<65 yo BDM only if the patient has risk factors; Reference: https://frax.canadiantaskforce.ca/index.php?r=site%2Frisks, Canadian Task Force 2023 Decision aid; Reference: https://frax.canadiantaskforce.ca/, Canadiant Task Force 2023 guideline; Reference: https://www.cmaj.ca/content/cmaj/195/18/E639.full.pdf, Osteoporosis Canada 2023 guideline; Reference: https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf, BDM Choosing Wisely; Reference: https://choosingwiselycanada.org/pamphlet/bone-density-tests/",
+        "Gender": "m,f",
+        "Minimum age": 18,
+        "Maximum age": 64
+    },
+    {
+        "Button": "Bone",
+        "Topic heading": "Bone Health",
+        "Subject": "Prevent fragility fractures",
+        "General Patient Text": "There are 2 different guidelines : (<Canadian Task Force 2023:>) Women 65 and over can use this calculator; Reference: https://frax.canadiantaskforce.ca/, and see their primary care provider to discuss if a bone density is necessary Men of all ages and women below 65 are not advised to have a bone density unless they have risk factors; Reference: https://frax.canadiantaskforce.ca/index.php?r=site%2Frisks (<Osteoporosis Canada 2023>) recommends a bone density testing for all genders at age 70. Medical reference; Reference: https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf, more info; Reference: https://choosingwiselycanada.org/bone-density-tests/",
+        "Health Provider Text": "There are 2 different guidelines : (<Canadian Task Force 2023:>) Will save time and health care dollars. Evidence-based with multiple systematic reviews (methodology documented) Women 65 and over: use this calculator; Reference: https://frax.canadiantaskforce.ca/, and see their primary care provider to discuss if a bone density is necessary Men of all ages and women below 65 are not advised to have a bone density unless they have risk factors; Reference: https://frax.canadiantaskforce.ca/index.php?r=site%2Frisks, Guideline; Reference: https://www.cmaj.ca/content/cmaj/195/18/E639.full.pdf (<Osteoporosis Canada 2023 guideline:>) Bone density test recommended for everyone 70+ for all genders: Full guideline; Reference: https://www.cmaj.ca/content/cmaj/195/39/E1333.full.pdf",
+        "Gender": "m,f",
+        "Minimum age": 65,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Breast",
+        "Topic heading": "Breast Cancer",
+        "Subject": "Prevent Breast Cancer",
+        "General Patient Text": "See how to reduce your risk of breast cancer; Reference: https://cancer.ca/en/cancer-information/cancer-types/breast/risks/reducing-your-risk, Calculate your risk with these tools: -Ibis tool; Reference: https://ibis.ikonopedia.com/, If risk is above 15% contact your provider or local breast screening program. -Mycanceriq; Reference: https://www.mycanceriq.ca/Cancers/Risk, Ages for breast cancer screening are changing in different provinces and territories. Check your province or territory's information. See the Canadian Task Force recommendation; Reference: https://canadiantaskforce.ca/what-is-the-breast-cancer-screening-guidance-in-canada/",
+        "Health Provider Text": "n/a",
+        "Gender": "f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Breast",
+        "Topic heading": "Breast Cancer",
+        "Subject": "Testing for breast cancer",
+        "General Patient Text": "(<If you have breast symptoms>) (pain, lump, discharge or other breast cancer symtoms; Reference: https://cancer.ca/en/cancer-information/cancer-types/breast/signs-and-symptoms), see your health professional as soon as possible. (<If you have no symptoms>) or risks; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/breast/risks/?region=on, you may qualify for a screening mammogram ( a mammogram that is not for symptoms, but is for a healthy person): -(<40 to 49:years old>): discuss with your primary care provider the pros and cons of screening or visit your provincial or territorial website for breast screening. -(<50 to 74 years old>): mammograms are recommended every 2-3 years. See the Canadian Task Force recommendation; Reference: https://canadiantaskforce.ca/what-is-the-breast-cancer-screening-guidance-in-canada/",
+        "Health Provider Text": "n/a",
+        "Gender": "f",
+        "Minimum age": 40,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Breast",
+        "Topic heading": "Breast Cancer",
+        "Subject": "Age 75 and over",
+        "General Patient Text": "Research does not recommend mammograms age 75 and over, but if you are healthy you may discuss further testing with your health care provider.",
+        "Health Provider Text": "n/a",
+        "Gender": "f",
+        "Minimum age": 75,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Breast",
+        "Topic heading": "Breast Cancer",
+        "Subject": "Prevent and screen for Breast Cancer",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "2 Risk calculators for patients; Ibis tool; Reference: https://ibis.ikonopedia.com/, Mycanceriq; Reference: https://www.mycanceriq.ca/Cancers/Risk, Screening Mammograms: 40-49: Some provinces/territories starting at 40 or 45 , shared decision-making. 50-74: Every 2-3 years CTFPHC update; Reference: https://canadiantaskforce.ca/tools-resources/breast-cancer-update/breast-cancer-update-faqs/ 75+: Not recommended by canadiantaskforce.ca, but: CFP article 2019 on when to stop screening; Reference: https://www.cfp.ca/content/cfp/65/8/543.full.pdf, High risk patients: Provinces and territories vary in their approach to high-risk screening. The Ibis tool; Reference: https://ibis.ikonopedia.com/, can be used to determine if high risk (20-25% risk or more )",
+        "Gender": "f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Breast/Chest",
+        "Topic heading": "Breast Cancer",
+        "Subject": "Information ",
+        "General Patient Text": "If you are taking estrogen and have breasts, you need regular screening mammograms depending on your age. The recommendation is for you to have a mammogram every 2 years from age 50 to 74. Some primary care providers may recommend that you only start undergoing mammograms at age 50 if you have been on estrogen for at least 5 years.",
+        "Health Provider Text": "Trans women and people on the transfeminine spectrum who are on feminizing hormone therapy should undergo breast cancer screening as per current guidelines for cis women. The current recommendation is a mammogram every 2 years from age 50-74. Some guidelines (such as those by RHO and UCSF) specify to only start once the patient has been on feminizing hormone therapy for > 5 years total (up to 10 years according to UCSF), whereas others do not specify a minimum hormone duration use. Note that the presence of breast implants generally necessitates diagnostic mammography rather than routine screening mammography (RHO)",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Breast/Chest",
+        "Topic heading": "Breast Cancer",
+        "Subject": "Resources",
+        "General Patient Text": "Overview of breast cancer screening for trans women in Canada; Reference: https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-women-and-breast-cancer-screening/?region=on/, RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Health Provider Text": "n/a",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Breast/Chest",
+        "Topic heading": "Breast Cancer",
+        "Subject": "Tips and Resources",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Overview of breast cancer screening for trans women in Canada; Reference: https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-women-and-breast-cancer-screening/?region=bc, RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Breast/Chest",
+        "Topic heading": "Chest Cancer",
+        "Subject": "Information ",
+        "General Patient Text": "If you have not had top surgery to remove breast tissue in its entirety (also known as a mastectomy), you need a mammogram every 2 years from age 50 to 74. You still need mammograms even if you have had a breast reduction (and not a mastectomy). If you have had a mastectomy, discuss whether you need regular chest exams with your primary care provider; it is generally not the case.",
+        "Health Provider Text": "Trans men and people on the transmasculine spectrum who have not had a bilateral mastectomy should undergo breast cancer screening, as per the current guidelines for cis women. The current recommendation for cis women is a mammogram every 2 years from age 50-74. There is currently no reliable evidence on screening for trans men and people on the transmasculine spectrum patients who have had a mastectomy; consider discussing the unknown risks associated with residual breast tissue, as well as the possible technical limitations of mammography (UCSF). Consider continuing regular monitoring for breast cancer even after mastectomy, as mastectomies usually do not remove breast tissue in its entirety; the Endocrine Society suggests conducting sub- and periareolar annual breast examinations if the patient has undergone a mastectomy, whereas UCSF cautions against it (not evidence-based).",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Breast/Chest",
+        "Topic heading": "Chest Cancer",
+        "Subject": "Resources",
+        "General Patient Text": "Overview of breast cancer screening for trans men in Canada; Reference: https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-men-and-chest-cancer-screening/?region=on, RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Health Provider Text": "n/a",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Breast/Chest",
+        "Topic heading": "Chest Cancer",
+        "Subject": "Tips and Resources",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Be mindful of the language you use when referring to traditionally gendered body parts, as certain words may make patients feel uncomfortable \u2014 consider following the patients lead with regards to terminology (e.g. some trans men may prefer to refer to their breasts as their \u201cchest\u201d). Note that mastectomy typically does not involve the removal of all breast tissue, and that some may still remain in place, meaning that patients could still be at risk of breast cancer (TransCare BC). If an abnormality is noted on the exam of a trans man who had a mastectomy, ultrasound +/- MRI is indicated as mammography is technically difficult or may be impossible (RHO). Overview of breast cancer screening for trans men in Canada; Reference: https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-men-and-chest-cancer-screening/?region=on, RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Colon",
+        "Topic heading": "Colorectal Cancer",
+        "Subject": "Screen",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Age 50-74: FOBT or FIT (depending on province) every 2y or Flexible sigmoidoscopy every 10 years Colonoscopy not recommended in Canada for low risk: 1/2000 risk of perforation, no evidence yet,ongoing RCTs Canadian task force 2016; Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/colorectal-cancer/, CFP article on when to stop screening; Reference: https://www.cfp.ca/content/cfp/65/8/543.full.pdf, FOBT=Fecal occult blood test FIT= Fecal immunochemical test Colonoscopy recommended for high risk patients Click to see Canadian association of gastroenterology guideline 2018; Reference: https://www.cag-acg.org/images/publications/CAG_CPG_CRC_Screening_Aug2018.pdf",
+        "Gender": "all",
+        "Minimum age": 50,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Colon",
+        "Topic heading": "Colorectal Cancer",
+        "Subject": "Get tested for Bowel Cancer",
+        "General Patient Text": "Age 50 to 74: Do a stool test (\"poop test\") every 2 years (see your health care provider for a kit) Or do another test called Flexible Sigmoidoscopy every 10 years (not common, discuss with your provider if available) Colonoscopy is not recommended if you have no symptoms or family history of colon cancer. It has a risk of perforation of the bowel of 1/2000 more; Reference: https://canadiantaskforce.ca/tools-resources/colorectal-cancer-for-patients-2/",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 50,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Colon",
+        "Topic heading": "Colorectal Cancer",
+        "Subject": "Testing to detect early cancer may not be useful at age 75 and over",
+        "General Patient Text": "Most people do not need to be screened at this time, discuss with your provider if you prefer to be screened. more; Reference: https://canadiantaskforce.ca/tools-resources/colorectal-cancer-for-patients-2/",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 75,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Colon",
+        "Topic heading": "Colorectal Cancer",
+        "Subject": "Prevent Colon Cancer",
+        "General Patient Text": "Be physically active Maintain a healthy body weight, bmi; Reference: https://cancer.ca/en/cancer-information/reduce-your-risk/have-a-healthy-body-weight/reduce-your-risk-of-cancer-with-a-healthy-body-weight, Be a non-smoker and avoid second hand smoke more; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/colorectal/risks/reducing-your-risk/?region=on",
+        "Health Provider Text": "Recommend patients: Be physically active Maintain a healthy body weight, bmi; Reference: https://cancer.ca/en/cancer-information/reduce-your-risk/have-a-healthy-body-weight/reduce-your-risk-of-cancer-with-a-healthy-body-weight, Limit the amount of alcohol they drink (see healthy drinking guidelines) Be a non-smoker and avoid second hand smoke Limit the amount of red and processed meats eaten Eat foods high in fiber Limit sitting time Source; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/colorectal/risks/reducing-your-risk/?region=on",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 49
+    },
+    {
+        "Button": "Covid",
+        "Topic heading": "COVID-19",
+        "Subject": "Are you worried you have COVID-19?",
+        "General Patient Text": "Each province has their own recommendations. Look up your province's COVID website; Reference: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/provincial-territorial-resources-covid-19.html, or your local public health website. Here are some general resources: Confused about COVID; Reference: https://dfcm.utoronto.ca/confused-about-covid, COVID Government of Canada; Reference: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Covid",
+        "Topic heading": "COVID-19",
+        "Subject": "Vaccines",
+        "General Patient Text": "To book a vaccine appointment by province click here; Reference: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1, Each province has there specific information for COVID vaccination.",
+        "Health Provider Text": "Information is specific to each province , check with your provincial public health authority. Approved vaccines in Canada; Reference: https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines.html",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Covid",
+        "Topic heading": "COVID-19",
+        "Subject": "Elderly",
+        "General Patient Text": "Click on: For the elderly and their caregivers; Reference: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/resources-older-adults-caregivers.html, If you need food or other help: Phone 211 or click on 211 national website; Reference: https://211.ca, Or contact your local public health department, or municipality to find community services Public health info by province or territory; Reference: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/provincial-territorial-resources-covid-19.html",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Covid",
+        "Topic heading": "COVID-19",
+        "Subject": "Indigenous",
+        "General Patient Text": "First Nations; Reference: https://www.afn.ca/coronavirus/#factsheet, National Collaboration on Indigenous Health; Reference: https://www.nccih.ca/485/NCCIH_in_the_News.nccih?id=450",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Covid",
+        "Topic heading": "COVID-19",
+        "Subject": "Different languages",
+        "General Patient Text": "Ottawa public health; Reference: https://www.ottawapublichealth.ca/en/public-health-topics/multilingual-resources.aspx, Ontario public health; Reference: https://www.publichealthontario.ca/en/diseases-and-conditions/infectious-diseases/respiratory-diseases/novel-coronavirus/public-resources, Quebec multilingual; Reference: https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/informations-allophones-covid-19",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Covid",
+        "Topic heading": "COVID-19",
+        "Subject": "Updated research",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Appraised evidence MCMASTER EBM; Reference: https://plus.mcmaster.ca/COVID-19, Journals CMAJ; Reference: https://www.cmaj.ca/covid-19, BMJ; Reference: https://www.bmj.com/coronavirus, JAMA;Reference: https://jamanetwork.com/collections/46099/coronavirus-covid19, NEJM; Reference: https://www.nejm.org/coronavirus, The Lancet; Reference: https://www.thelancet.com/coronavirus/archive?, Public Health Agency of Canada For health professionals; Reference: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals.html",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Pancreas",
+        "Topic heading": "Diabetes Type 2",
+        "Subject": "National Indigenous Diabetes Association",
+        "General Patient Text": "National Indigenous Diabetes Association; Reference: http://nada.ca/, Resources; Reference: https://nada.ca/resources/",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Pancreas",
+        "Topic heading": "Diabetes Type 2",
+        "Subject": "Prevent Diabetes",
+        "General Patient Text": "Eat a healthy diet Be physically active Keep your BMI healthy:18.5-24 bmi; Reference: https://www.diabetes.ca/static/bmi-calculator.html",
+        "Health Provider Text": "Recommend: Healthy diet Physical activity Healthy BMI: 18.5-24 bmi; Reference: https://www.diabetes.ca/static/bmi-calculator.html",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Pancreas",
+        "Topic heading": "Diabetes Type 2",
+        "Subject": "Get a blood test for Diabetes if you are at risk",
+        "General Patient Text": "You can use a calculator to see if you need one: calculator 1; Reference: https://diabetes.ca/about-diabetes/take-the-test, calculator2; Reference: https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-patient-findrisc/",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Pancreas",
+        "Topic heading": "Diabetes Type 2",
+        "Subject": "Screen for Diabetes",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Using a calculator is evidence-based (2016 CTFPHC). Your patient can be emailed this questionnaire or it can be filled in the waiting room. FINDRISC online calculator; Reference: https://qxmd.com/calculate/calculator_236/findrisc-diabetes-risk-calculator, FINDRISC pdf; Reference: https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-patient-findrisc/, or CANRISK online calculator; Reference: https://diabetes.ca/about-diabetes/take-the-test, CANRISK pdf available in different languages; Reference: https://canadiantaskforce.ca/tools-resources/type-2-diabetes-2/type-2-diabetes-canrisk/, Canadian Diabetes Assoc 2018 screening guideline; Reference: https://guidelines.diabetes.ca/cpg/chapter4",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Hip",
+        "Topic heading": "Falls in the Elderly",
+        "Subject": "Prevent falls",
+        "General Patient Text": "Bathroom: Make sure you have non slip surfaces or mats Grab bars, bath seat Raised toilet Make sure path is clear from bedroom to bathroom Home: Get rid of loose rugs or make non-slip Have good lighting and night lights Be active: Tai chi,walking, exercise classes etc Medications: Discuss with your provider if your medications can cause falls more; Reference: https://www.canada.ca/content/dam/phac-aspc/migration/phac-aspc/seniors-aines/alt-formats/pdf/publications/public/injury-blessure/prevent-eviter/prevent-eviter-e.pdf",
+        "Health Provider Text": "The American Geriatrics Society and British Geriatrics Society recommend asking about falls every year ref CFP article; Reference: http://www.cfp.ca/content/62/9/717, more info; Reference: https://www.ajpmonline.org/article/S0749-3797(18)31759-8/fulltext, Ressources for health care professionnal; Reference: https://parachute.ca/en/professional-resource/seniors-falls-collection/, For advice to patients, see in our app patient section on Falls.",
+        "Gender": "all",
+        "Minimum age": 65,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "General information ",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "The current guidelines for general population should be followed when evaluating for cardiovascular risk factors in trans patients, such as diabetes and dyslipidemia screening. Encourage physical activity,smoking cessation, weight loss, management of diabetes and hypertension. When using a risk calculator; Reference: https://cvdcalculator.com/, depending on when and how long the patient has been on hormones, consider using either a calculator based on the patient\u2019s sex assigned at birth, their affirmed gender or an average of the two UCSF; Reference: https://transcare.ucsf.edu/guidelines/cardiovascular",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "General information ",
+        "General Patient Text": "Follow the same advice about preventing heart disease as for cis people AND if you use a risk calculator; Reference: https://cvdcalculator.com/, for heart disease: depending how long you have been on hormones, consider using either a calculator based on your sex assigned at birth, your affirmed gender or an average of the two UCSF; Reference: https://transcare.ucsf.edu/guidelines/cardiovascular, more risk calculators; Reference: https://ccs.ca/calculators-and-forms/",
+        "Health Provider Text": "The current guidelines for general population should be followed when evaluating for cardiovascular risk factors in trans patients, such as diabetes and dyslipidemia screening. Encourage physical activity,smoking cessation, weight loss, management of diabetes and hypertension. When using a risk calculator; Reference: https://cvdcalculator.com/,, depending on when and how long the patient has been on hormones, consider using either a calculator based on the patient\u2019s sex assigned at birth, their affirmed gender or an average of the two UCSF; Reference: https://transcare.ucsf.edu/guidelines/cardiovascular, more risk calculators; Reference: https://ccs.ca/calculators-and-forms/",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Be active",
+        "General Patient Text": "Being active is one of the best ways to prevent heart disease. If you have not been active start with mild exercise such as walking. If you have symptoms of pain, shortness of breath, or dizziness see your primary care provider Advice for ages 18-64; Reference: https://csepguidelines.ca/guidelines/adults-18-64/, Advice for ages 65+; Reference: https://csepguidelines.ca/guidelines/adults-65/",
+        "Health Provider Text": "n/a",
+        "Gender": "tf,tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Physical activity",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Guideline and handout for age 18-64; Reference: https://csepguidelines.ca/guidelines/adults-18-64/, Guideline and handout for age 65+; Reference: https://csepguidelines.ca/guidelines/adults-65/",
+        "Gender": "tf,tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Smoking",
+        "General Patient Text": "Recommended to quit or reduce. Get help with websites, groups, phone lines by province; Reference: https://www.canada.ca/en/health-canada/services/smoking-tobacco/quit-smoking/provincial-territorial-services.html, More; Reference: http://www.smokershelpline.ca/",
+        "Health Provider Text": "Recommend to quit or reduce. Resources: By province; Reference: https://www.canada.ca/en/health-canada/services/smoking-tobacco/quit-smoking/provincial-territorial-services.html, More; Reference: http://www.smokershelpline.ca/",
+        "Gender": "tf,tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Blood pressure",
+        "General Patient Text": "During your visit to the doctor, ask for a measurement of your blood pressure. A normal blood pressure is under 140/90 mmHg or lower for some people . The target blood pressure depends on factors like age and health conditions, and where readings are being taken. If you have diabetes, kidney disease or other health conditions, speak to your health care professional about your target blood pressure. How to appropriately measure your blood pressure at home; Reference: https://hypertension.ca/wp-content/uploads/2020/03/BPM-Postcard-Front.jpg, Understanding and Managing Your Blood Pressure; Reference: https://guidelines.hypertension.ca/wp-content/uploads/2022/09/HTC_Brochure_UnderstandingBP_2018_R3.pdf",
+        "Health Provider Text": "CTFPHC recommends blood pressure measurement at all appropriate primary care visits.2012 Guideline; Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/hypertension/ (Strong recommendation; moderate quality evidence) Hypertension Canada guideline summary 2022; Reference: https://hypertension.ca/wp-content/uploads/2020/10/2020-22-HT-Guidelines-E-WEB_v3b.pdf, If the mean blood pressure measured in office As per recommended technique; Reference: https://guidelines.hypertension.ca/diagnosis-assessment/measuring-blood-pressure/, is high during one visit, a history and physical examination should be performed and, if clinically indicated, diagnostic tests to search for target organ damage should be arranged within 2 visits. Routine Lab Testing Recommended: urinalysis, blood chemistry (potassium, sodium and creatinine), fasting blood glucose and/or glycated hemoglobin (A1C), serum total cholesterol, LDL, HDL, non-HDL, triglycerides (fasting or non-fasting) and a standard 12-lead ECG. Global cardiovascular risk assessment should be done using risks calculators: Framingham only validated between age 30 and 74 risk calculator with happy faces; Reference: https://cvdcalculator.com/, more risk calculators; Reference: https://ccs.ca/calculators-and-forms/",
+        "Gender": "tf,tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Cholesterol ",
+        "General Patient Text": "Get tested over age 40 every 3-5 years. Get tested under 40 only if you have some health problems: Family history of early heart disease High blood pressure Diabetes Smoking and other health problems; Reference: https://www.heartandstroke.ca/heart/risk-and-prevention, Discuss this with your provider.",
+        "Health Provider Text": "n/a",
+        "Gender": "tf,tm",
+        "Minimum age": 18,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Cholesterol ",
+        "General Patient Text": "Over age 74 testing for cholesterol may or may not be needed If you are healthy, discuss testing with your practitioner (most studies for cholesterol were not done on this age group, so you may not need it). If you have health problems, some health problems require cholesterol testing and others do not, discuss with your provider.",
+        "Health Provider Text": "n/a",
+        "Gender": "tf,tm",
+        "Minimum age": 75,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Lipids",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Lipid screening: We have simplified by using 40 as the age to start testing if no additional risks.(CCS starts at 40 for both cis men and women, PEER 40 for men and 50/menopause for women) Before 40 if risk factors: see 2 guidelines below For age 40 and above: repeat lipid testing every 3-5 years if normal Age 75 + healthy: discouraged as have not studied primary prevention in this group. 2023 PEER Simplified Lipid Guidelines; Reference: https://www.cfp.ca/content/cfp/69/10/675.full.pdf 2021 CCS- Canadian Cardiology Society guideline; Reference: https://onlinecjc.ca/action/showPdf?pii=S0828-282X%2821%2900165-3",
+        "Gender": "tf,tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Diabetes",
+        "General Patient Text": "If you have diabetes, keeping your blood sugar and blood pressure under control will prevent heart disease. Blood pressure target for diabetics under 65 years old is under 130/70. Ask your provider for help.",
+        "Health Provider Text": "Diabetes is a risk factor for heart disease. Resource; Reference: https://www.diabetes.ca/managing-my-diabetes/tools---resources/reducing-vascular-risk, from diabetes.ca to reduce vascular risk.",
+        "Gender": "tf,tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Be active",
+        "General Patient Text": "Being active is one of the best ways to prevent heart disease. If you have not been active start with mild exercise such as walking.If you have symptoms of pain, shortness of breath, or dizziness see your primary care provider Advice for ages 18-64; Reference: https://csepguidelines.ca/guidelines/adults-18-64/, Advice for ages 65+; Reference: https://csepguidelines.ca/guidelines/adults-65/",
+        "Health Provider Text": "n/a",
+        "Gender": "m,f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Physical activity",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Physical activity more potent than statins in preventing heart disease. Guideline for age 18-64; Reference: https://csepguidelines.ca/guidelines/adults-18-64/, Guideline for age 65+; Reference: https://csepguidelines.ca/guidelines/adults-65/",
+        "Gender": "m,f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Get your heart risk score",
+        "General Patient Text": "Use these online tools risk calculator with happy faces; Reference: https://decisionaid.ca/cvd/, myhealthcheckup; Reference: https://myhealthcheckup.com, Discuss with your provider if you have questions",
+        "Health Provider Text": "n/a",
+        "Gender": "m,f",
+        "Minimum age": 30,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Calculate cardiovascular risk",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Risk calculators Framingham only validated between age 30 and 74 2023 PEER cvs decision aid; Reference: https://decisionaid.ca/cvd/, more risk calculators; Reference: https://ccs.ca/calculators-and-forms/",
+        "Gender": "m,f",
+        "Minimum age": 30,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Eating healthy",
+        "General Patient Text": "(<Mediterranean diet>) proven to prevent heart disease Handout; Reference: https://www.healthquality.va.gov/guidelines/CD/lipids/DyslipidemiaMedDietTrifoldFINAL508c11Dec2020.pdf, Dietitians of Canada; Reference: https://www.dietitians.ca/DietitiansOfCanada/media/Documents/Mediterranean%20Diet%20Toolkit/Mediterranean-Diet-Toolkit-A-Guide-to-Healthy-Eating-(handout).pdf (<Heart and Stroke Foundation>) Healthy eating info; Reference: https://www.heartandstroke.ca/healthy-living/healthy-eating",
+        "Health Provider Text": "(<Mediterranean diet>) proven in RCT to prevent cvs disease Handout; Reference: https://www.healthquality.va.gov/guidelines/CD/lipids/DyslipidemiaMedDietTrifoldFINAL508c11Dec2020.pdf, Dietitians of Canada; Reference: https://www.dietitians.ca/DietitiansOfCanada/media/Documents/Mediterranean%20Diet%20Toolkit/Mediterranean-Diet-Toolkit-A-Guide-to-Healthy-Eating-(handout).pdf (<Heart and Stroke Foundation>) Healthy eating info; Reference: https://www.heartandstroke.ca/healthy-living/healthy-eating",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Smoking",
+        "General Patient Text": "Recommended to quit or reduce. Get help with websites, groups, phone lines by province; Reference: https://www.canada.ca/en/health-canada/services/smoking-tobacco/quit-smoking/provincial-territorial-services.html., More; Reference: http://www.smokershelpline.ca/",
+        "Health Provider Text": "Ask all patients about tobacco use. Recommend to quit or reduce. Resources: By province; Reference: https://www.canada.ca/en/health-canada/services/smoking-tobacco/quit-smoking/provincial-territorial-services.html., More; Reference: http://www.smokershelpline.ca/, Use behavioral interventions. As needed use approved pharmacotherapy to promote cessation. USPSTF A (2017); Reference: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/tobacco-use-in-adults-and-pregnant-women-counseling-and-interventions, motivational interviewing video; Reference: https://www.youtube.com/watch?v=URiKA7CKtfc",
+        "Gender": "m,f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Blood pressure",
+        "General Patient Text": "During your visit to the doctor, ask for a measurement of your blood pressure. A normal blood pressure is under 140/90 mmHg or lower for some people . The target blood pressure depends on factors like age and health conditions, and where readings are being taken. If you have diabetes, kidney disease or other health conditions, speak to your health care professional about your target blood pressure. How to appropriately measure your blood pressure at home; Reference: https://hypertension.ca/wp-content/uploads/2020/03/BPM-Postcard-Front.jpg, Understanding and Managing Your Blood Pressure; Reference: https://guidelines.hypertension.ca/wp-content/uploads/2022/09/HTC_Brochure_UnderstandingBP_2018_R3.pdf",
+        "Health Provider Text": "CTFPHC (2012) recommends blood pressure measurement at all appropriate primary care visits.Guideline; Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/hypertension/ (Strong recommendation; moderate quality evidence) Hypertension Canada guideline summary 2022; Reference: https://hypertension.ca/wp-content/uploads/2020/10/2020-22-HT-Guidelines-E-WEB_v3b.pdf, If the mean blood pressure measured in office As per recommended technique; Reference: https://guidelines.hypertension.ca/diagnosis-assessment/measuring-blood-pressure/, is high during one visit, a history and physical examination should be performed and, if clinically indicated, diagnostic tests to search for target organ damage should be arranged within 2 visits. Routine Lab Testing Recommended: urinalysis, blood chemistry (potassium, sodium and creatinine), fasting blood glucose and/or glycated hemoglobin (A1C), serum total cholesterol, LDL, HDL, non-HDL, triglycerides (fasting or non-fasting) and a standard 12-lead ECG. Global cardiovascular risk assessment should be done using risks calculators: Framingham only validated between age 30 and 74 risk calculator with happy faces; Reference: https://cvdcalculator.com/, more risk calculators; Reference: https://ccs.ca/calculators-and-forms/",
+        "Gender": "m,f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Cholesterol ",
+        "General Patient Text": "Get tested under 40 only if you have some health problems: Family history of early heart disease High blood pressure Diabetes Smoking and other health problems; Reference: https://www.heartandstroke.ca/heart/risk-and-prevention, Discuss this with your provider.",
+        "Health Provider Text": "n/a",
+        "Gender": "m,f",
+        "Minimum age": 18,
+        "Maximum age": 39
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Cholesterol ",
+        "General Patient Text": "Get tested for cholesterol above age 40; If the blood test is normal repeat every 3-5 years.",
+        "Health Provider Text": "n/a",
+        "Gender": "m",
+        "Minimum age": 40,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Cholesterol ",
+        "General Patient Text": "According to some doctors women with no extra risks should get tested for cholesterol above age 40. According to others testing should start at age 50 or at the age of menopause. Discuss with your health provider . If the blood test is normal repeat every 3-5 years",
+        "Health Provider Text": "n/a",
+        "Gender": "f",
+        "Minimum age": 40,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Cholesterol ",
+        "General Patient Text": "Over age 74 testing for cholesterol may or may not be needed. If you are healthy, discuss testing with your practitioner (most studies for cholesterol were not done on this age group, so you may not need it). If you have health problems, some health problems require cholesterol testing and others do not, discuss with your provider.",
+        "Health Provider Text": "n/a",
+        "Gender": "m,f",
+        "Minimum age": 75,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Lipids",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Lipid screening: Before 40 in men if risk factors See 2 guideline links below for risk factor lists For men age 40+: Screen and Repeat every 5 years if N (see guidelines q 5-10 yrs PEER, q 3-5 yrs CCS) Age 75 + if healthy: discouraged as have not been validated at this age 2023 PEER Simplified Lipid Guidelines; Reference: https://www.cfp.ca/content/cfp/69/10/675.full.pdf 2021 CCS- Canadian Cardiology Society guideline; Reference: https://onlinecjc.ca/action/showPdf?pii=S0828-282X%2821%2900165-3",
+        "Gender": "m",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Lipids",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Lipid screening: Before age 40(CCS guideline) or 50/menopause (PEER guideline) if risk factors NOTE: in women Hypertensive diseases of pregnancy (including preeclampsia, pregnancy induced hypertension are considered additional cvs risk factors click here; Reference: https://www.jogc.com/article/S1701-2163(18)30836-3/abstract, At 40 or 50/menopause: Screen and Repeat every 5 years if N (see guidelines q 5-10 yrs PEER, q 3-5 yrs CCS) Age 75 + if healthy: discouraged as have not been validated at this age 2023 PEER Simplified Lipid Guidelines; Reference: https://www.cfp.ca/content/cfp/69/10/675.full.pdf 2021 CCS- Canadian Cardiology Society guideline; Reference: https://onlinecjc.ca/action/showPdf?pii=S0828-282X%2821%2900165-3 :repeat every 5 years if N",
+        "Gender": "f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Heart",
+        "Topic heading": "Heart Disease",
+        "Subject": "Diabetes",
+        "General Patient Text": "If you have diabetes, keeping your blood sugar and blood pressure under control will prevent heart disease. Blood pressure target for diabetics under 65 years old is under 130/70. Ask your provider for help.",
+        "Health Provider Text": "Diabetes is a risk factor for heart disease. Resource; Reference: https://www.diabetes.ca/managing-my-diabetes/tools---resources/reducing-vascular-risk, from diabetes.ca to reduce vascular risk.",
+        "Gender": "m,f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Needle in arm",
+        "Topic heading": "Immunization",
+        "Subject": "Recommendations",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Recommend the app CanImmunize; Reference: https://www.canimmunize.ca/en/home {{AGE 18 and above (ALL ADULTS)}} The following schedule assumes the patient has been vaccinated in childhood (<Td>) (Tetanus-diphtheria) every 10 years (<Tdap>)(Tetanus,diphtheria, acellular pertussis or whooping cough): once in your lifetime (<Measles Mumps Rubella>):it is advised that most adults should have 2 doses of this vaccine (<HPV>): recommended for all females and males from ages 9 to 26. The vaccine is also safe over age 26. more; Reference: https://www.reframehealthlab.com/should-you-get-the-hpv-vaccine/ (<Influenza>): is recommended for all adults. For high risk groups see CanImmunize app (<Pneumococcal, varicella, meningococcal are recommended for some high risk groups>) seeCANImmunize app {{AGE 50+}} NACI recommends offering a Shingles vaccine starting at 50, Shingrix preferred, but in most provinces the patient will need to pay for this in this age group. NACI 2018; Reference: https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2018-44/issue-9-september-6-2018/article-6-2018-naci-update-herpes-zoster-vaccines.html {{AGE 60+}} Shingles vaccine if not already received , see info above. Check if covered in your province. RSV: Arexvy is a new vaccine for RSV approved by Health Canada but no NACI recommendation is available. See your province's recommendation {{AGE 65+}} (<Shingles vaccine>) if not already given. Yukon and Ontario cover Shingrix from 65-70. For other provinces Zostavax may be covered , check your provincial schedule (<Pneumococcal>) PNEU-P-23 advised for all immunocompetent, repeat once in 5 years only if low immunity. Prevnar 20 advised as a better vaccine by NACI, not covered in most provinces (< Influenza>) yearly (<RSV>): Arexvy is a new vaccine for RSV approved by Health Canada but no NACI recommendation is available. See your province's recommendation. SOURCE: NACI; Reference: https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci.html",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Needle in arm",
+        "Topic heading": "Immunization",
+        "Subject": "Get immunized",
+        "General Patient Text": "For best information download the app CanImmunize; Reference: https://www.canimmunize.ca/en/home {{AGE 18-49}} This schedule assumes you have been vaccinated in childhood (<Td>) (Tetanus-diphtheria)(<every 10 years>) (<Tdap>)(Tetanus,diphtheria, acellular pertussis or whooping cough):(<once in your lifetime>) (<Measles Mumps Rubella>):it is advised that most adults should have 2 doses of this vaccine (<HPV>): recommended for all females and males from ages 9 to 26. The vaccine is also safe over age 26. more; Reference: https://www.reframehealthlab.com/should-you-get-the-hpv-vaccine/ (<Influenza>): is recommended for all adults. For high risk groups see CanImmunize app Pneumococcal, varicella, meningococcal,shingles are recommended for some high risk groups seeCANImmunize app",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 49
+    },
+    {
+        "Button": "Needle in arm",
+        "Topic heading": "Immunization",
+        "Subject": "Get immunized",
+        "General Patient Text": "For best information download the app CanImmunize; Reference: https://www.canimmunize.ca/en/home {{AGE 50 and over}}: This schedule assumes the patient has been vaccinated in childhood (<Td>) (Tetanus-diphtheria) every 10 years (<Tdap>)(Tetanus,diphtheria, acellular pertussis or whooping cough): once in your lifetime (<Measles Mumps Rubella>):it is advised that most adults should have 2 doses of this vaccine (<Influenza>): is recommended for all adults. For high risk groups see CanImmunize app Pneumococcal, varicella, meningococcal are recommended for some high risk groups seeCANImmunize app (<Shingles vaccine>): There are 2 vaccines against shingles: Shingrix and Zostavax. These vaccines are recommended at age 50 and above, but many provinces only pay for one or the other at later ages. Check with your provider. Studies show that Shingrix lasts longer for 50 and over but you may have to pay for this asmost provinces not funding yet {{AGE 60 and over}}: RSV : a new vaccine Arexvy is available but most provinces are not funding this. Inquire with your provider if this is useful Vaccines against Shingles: Shingrix or Zostavax Some studies show that Shingrix is more effective. 2 provinces cover the costs of Shingrix at this time: Yukon and Ontario: for patients aged 65 to 70. Check with your health care provider as this may change and it is important to get vaccinated against shingles to prevent complications. {{AGE 65 and over}}: (<Shingles vaccine>): get it if you have not received it yet. (<Pneumococcal>) : Pneumococcal 23 is paid for by your province, Prevnar 20 is recomended by NACI but may not be paid by your province, check with your provider (<Influenza yearly>) (<RSV>) A new vaccine Arexvy is available but most provinces are not funding this. Inquire with your provider if this is useful",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 50,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Needle in arm",
+        "Topic heading": "Immunization",
+        "Subject": "COVID vaccines",
+        "General Patient Text": "To book a vaccine appointment by province click here; Reference: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1, Each province has there specific information for COVID vaccination.",
+        "Health Provider Text": "Information is specific to each province , check with your provincial public health authority. Approved vaccines in Canada; Reference: https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines.html",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Needle in arm",
+        "Topic heading": "Immunization",
+        "Subject": "Shingles vaccine",
+        "General Patient Text": "Shingles is a disease that can cause permanent pain and eye problems. There are 2 vaccines against shingles: Shingrix and Zostavax. These vaccines are recommended starting at 50 years old but most provinces pay for them only at later ages. Discuss this with your health care provider. Studies show that Shingrix is more effective. 2 provinces cover Shingrix currently: Yukon and Ontario for patients aged 65 to 70. Check with your health care provider which vaccine is covered in your province and when . It is important to get vaccinated to prevent complications",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 50,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Liver",
+        "Topic heading": "Liver/Alcohol/Drugs",
+        "Subject": "Alcohol",
+        "General Patient Text": "Click on Canadian low risk drinking guidelines; Reference: https://ccsa.ca/sites/default/files/2023-01/CGAH-Drinking-Less-is-Better-en%20%28ID%2050809%29.pdf",
+        "Health Provider Text": "Canadian low risk drinking guidelines 2023 PDF; Reference: https://ccsa.ca/sites/default/files/2023-01/CGAH-Drinking-Less-is-Better-en%20%28ID%2050809%29.pdf, Background; Reference: https://ccsa.ca/canadas-guidance-alcohol-and-health",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Liver",
+        "Topic heading": "Liver/Alcohol/Drugs",
+        "Subject": "Drug Abuse",
+        "General Patient Text": "Get help if you are addicted to a substance/gambling. Each province or territory has a help line: more; Reference: https://www.canada.ca/en/health-canada/services/substance-use/get-help/get-help-problematic-substance-use.html",
+        "Health Provider Text": "Help available for patients addicted to a substance/gambling: each province or territory has a help line: more; Reference: https://www.canada.ca/en/health-canada/services/substance-use/get-help/get-help-problematic-substance-use.html:, Screening and counseling USPSTF I (2018) under review",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Liver",
+        "Topic heading": "Liver/Alcohol/Drugs",
+        "Subject": "Hepatitis C",
+        "General Patient Text": "The Canadian Task Force recommends getting a Hepatitis C test if you are in one of the following groups: (more groups in next tab) people who inject drugs or use drugs in their nose prisoners or people who have previously been in prison people with HIV infection people who were born, lived or travelled in countries where Hepatitis C is common: image;images/hepatitis_en1.png image;images/hepatitis_en2.png",
+        "Health Provider Text": "Screen individuals at risk CTFPHC 2017; Reference: https://canadiantaskforce.ca/wp-content/uploads/2017/04/CTFPHC_Hepatitis-C_Clinician-FAQ_v10_FINAL-1.pdf, See risks and map for endemic countries Summary CFP 2019 by Public Health Agency of Canada; Reference: https://www.cfp.ca/content/cfp/65/3/195.full.pdf",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Liver",
+        "Topic heading": "Liver/Alcohol/Drugs",
+        "Subject": "Hepatitis C additional information ",
+        "General Patient Text": "Other groups needing a test: people who received infected blood products people who had invasive procedure with inadequate infection control practices people who have had tattoos or piercings children born to mothers infected with Hepatitis C people with sexual partners infected with Hepatitis C",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Lung",
+        "Topic heading": "Lung",
+        "Subject": "Smoking",
+        "General Patient Text": "Recommended to quit or reduce. Get help with websites, groups, phone lines in each province. More; Reference: http://www.smokershelpline.ca/",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Lung",
+        "Topic heading": "Lung",
+        "Subject": "Testing for Lung Cancer",
+        "General Patient Text": "If you have been smoking for many years, you may be eligible to be screened for lung cancer with a Low dose computed tomography (LDCT). Ask your primary care provider for more details. Not every area has a program. This patient website has information about each province's lung screening status RIght2survive; Reference: https://right2survive.ca/resource-centre/screening/, Ontario ; Reference: https://www.cancercareontario.ca/en/cancer-care-ontario/programs/screening-programs/ontario-lung-screening-program, in some hospitals or regions. British Columbia; Reference: http://www.bccancer.bc.ca/screening/lung/get-screened, Quebec; Reference: https://www.quebec.ca/en/health/advice-and-prevention/screening-and-carrier-testing-offer/lung-cancer-screening-demonstration-project, Alberta; Reference: https://screeningforlife.ca/lung/?gclid=CjwKCAiAkp6tBhB5EiwANTCx1GvsjaV6kLK3FF4_a5br9RFKLdOc7Mwtg0QU6wOOyplNa-nKC8w3FRoCiqgQAvD_BwE.",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 55,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Lung",
+        "Topic heading": "Lung",
+        "Subject": "Smoking",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Ask all patients about tobacco use. Advise stopping this. Use behavioral interventions. As needed use approved pharmacotherapy to promote cessation. USPSTF A (2013); Reference: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/tobacco-use-in-adults-and-pregnant-women-counseling-and-interventions, video; Reference: https://www.youtube.com/watch?v=URiKA7CKtfc",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Lung",
+        "Topic heading": "Lung",
+        "Subject": "Lung Cancer screening",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "The CTFPHC (2016); Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/lung-cancer/, recommends a Low dose CT (LDCT) for adults aged 55-74 years, with at least a 30 pack-year smoking history who currently smoke or quit less than 15 years ago. They recommend annual screening with LDCT up to three consecutive time. (Weak recommendation; low quality evidence) For all other adults, regardless of age, smoking history or other risk factors, they do recommend not screening for lung cancer with LDCT. (Strong recommendation; very low quality evidence.) This patient website has information about each province's lung screening status(not every province has a program) RIght2survive; Reference: https://right2survive.ca/resource-centre/screening/, Ontario ; Reference: https://www.cancercareontario.ca/en/cancer-care-ontario/programs/screening-programs/ontario-lung-screening-program, in some hospitals or regions. British Columbia; Reference: http://www.bccancer.bc.ca/screening/lung/get-screened, Quebec; Reference: https://www.quebec.ca/en/health/advice-and-prevention/screening-and-carrier-testing-offer/lung-cancer-screening-demonstration-project, Alberta; Reference: https://screeningforlife.ca/lung/?gclid=CjwKCAiAkp6tBhB5EiwANTCx1GvsjaV6kLK3FF4_a5br9RFKLdOc7Mwtg0QU6wOOyplNa-nKC8w3FRoCiqgQAvD_BwE.",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Brain",
+        "Topic heading": "Memory Problems/Dementia",
+        "Subject": "What is Dementia?",
+        "General Patient Text": "Dementia is a type of disease that affects memory and thinking. This is different than memory loss from normal aging. normal aging vs dementia; Reference: http://alzheimer.ca/en/Home/About-dementia/What-is-dementia/Normal-aging-vs-dementia, Dementia can have different causes: Alzheimer's disease Vascular Dementia (due to strokes) Correctable causes: Thyroid, Vitamin Deficiencies more; Reference: http://alzheimer.ca/en/Home/About-dementia/What-is-dementia",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Brain",
+        "Topic heading": "Memory Problems/Dementia",
+        "Subject": "Prevention of Dementia",
+        "General Patient Text": "Be physically active Eat a healthy diet Maintain a healthy weight/BMI Don\u2019t smoke or drink excessive alcohol Keep your blood pressure, blood sugar and cholesterol in a healthy range Stay connected socially Challenge your brain with games, learning Reduce stress Protect your head with a helmet in sports more; Reference: http://alzheimer.ca/en/simcoecounty/About-dementia/Alzheimer-s-disease/Risk-factors",
+        "Health Provider Text": "Recommend your patients: Be physically active Eat a healthy diet Maintain a healthy weight/BMI Don\u2019t smoke or drink excessive alcohol Keep their blood pressure, blood sugar and cholesterol in a healthy range Stay connected socially Challenge their brain with games, learning Reduce stress Protect their head with a helmet in sports more; Reference: http://alzheimer.ca/en/simcoecounty/About-dementia/Alzheimer-s-disease/Risk-factors",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Brain",
+        "Topic heading": "Memory Problems/Dementia",
+        "Subject": "Testing available in certain situations",
+        "General Patient Text": "Memory testing may be done by your health care provider as you age, if you or family or friends are concerned.",
+        "Health Provider Text": "Screen with MOCA or MMSE if friends, family or patient report memory issues. canadian task force; Reference: https://canadiantaskforce.ca/tools-resources/cognitive-impairment-2/cognitive-impairment-clinician-faq/",
+        "Gender": "all",
+        "Minimum age": 50,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Stomach",
+        "Topic heading": "Nutrition",
+        "Subject": "Information sources",
+        "General Patient Text": "Eat healthy meals to prevent diabetes, obesity, heart disease, cancer and more. Canadian Food Guide; Reference: https://food-guide.canada.ca/en/, Heart and Stroke; Reference: https://www.heartandstroke.ca/get-healthy/healthy-eating, Diabetes Canada; Reference: https://www.diabetes.ca/nutrition---fitness",
+        "Health Provider Text": "Canadian Food Guide; Reference: https://food-guide.canada.ca/en/, Heart and Stroke; Reference: https://www.heartandstroke.ca/get-healthy/healthy-eating, Diabetes Canada; Reference: https://www.diabetes.ca/nutrition---fitness, Evidence; Reference: http://jandonline.org/article/S2212-2672(14)01871-1/fulltext",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Stomach",
+        "Topic heading": "Nutrition",
+        "Subject": "Saving money",
+        "General Patient Text": "10 tips; Reference: https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/10-tips-for-planning-meals-on-a-budget_NM-handout-2023_1.pdf",
+        "Health Provider Text": "10 tips; Reference: https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/10-tips-for-planning-meals-on-a-budget_NM-handout-2023_1.pdf",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Stomach",
+        "Topic heading": "Nutrition",
+        "Subject": "Fill half your plate with vegetables and fruit",
+        "General Patient Text": "Information; Reference: https://food-guide.canada.ca/en/",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Stomach",
+        "Topic heading": "Nutrition",
+        "Subject": "Plant-based foods",
+        "General Patient Text": "Advice; Reference: https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/Benefits-of-eating-more-plant-based-proteins_NM-handout-2023_1.pdf",
+        "Health Provider Text": "Dietitians of Canada handout; Reference: https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/Benefits-of-eating-more-plant-based-proteins_NM-handout-2023_1.pdf",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Stomach",
+        "Topic heading": "Nutrition",
+        "Subject": "New! The Microbiome",
+        "General Patient Text": "Food4guthealth; Reference: https://www.gutmicrobiotaforhealth.com/category/food-4-gut-health/, Follow on instagram; Reference: https://www.instagram.com/food4gut_health/, Harvard Information; Reference: https://www.hsph.harvard.edu/nutritionsource/microbiome/",
+        "Health Provider Text": "Food4guthealth; Reference: https://www.gutmicrobiotaforhealth.com/category/food-4-gut-health/, Follow on instagram; Reference: https://www.instagram.com/food4gut_health/, Harvard Information; Reference: https://www.hsph.harvard.edu/nutritionsource/microbiome/",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Figure outside body walking",
+        "Topic heading": "Physical Activity",
+        "Subject": "Recommendations",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Physical activity prevents heart disease, cancer, depression and more; Reference: https://www.reframehealthlab.com/23-and-12-hours/., The recommended minimum amount of physical activity is: 150 minutes a week of moderate intensity exercise (CSEP 2019 ,see \"References\") muscle strengthening 2x a week. Definition of moderate intensity: while you are active you have enough breath to say a short sentence but not enough to sing.",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Figure outside body walking",
+        "Topic heading": "Physical Activity",
+        "Subject": "References/Handouts",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Ref on decreased mortality with PA; Reference: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2212267, Exercise prescription PDF; Reference: https://www.exerciseismedicine.org/wp-content/uploads/2021/02/EIM-Prescription-2018-e-form.pdf, Patient-focused tools; Reference: https://exerciseismedicine.org/canada/patient-focused-tools/, Tool for primary care; Reference: https://csepguidelines.ca/wp-content/uploads/2022/09/Whole-Day-Matters-Toolkit-Primary-Care_EN.pdf, medical reference; Reference: http://www.cmaj.ca/content/174/6/801.full.pdf+html",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Physical Exam",
+        "Topic heading": "Physical Exam",
+        "Subject": "Frequency and type of physical exam",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "IN PATIENTS WITH NO RISK FACTORS, SYMPTOMS, DISEASES OR MEDICATION: Measure blood pressure, height, weight and BMI \"at appropriate medical visits\" according to CTFPHC; Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/hypertension/, CHEP guidelines for diagnosis of hypertension; Reference: https://guidelines.hypertension.ca/diagnosis-assessment/diagnosis-assessment-diagnosis/, more info on physical exams; Reference: https://choosingwiselycanada.org/family-medicine/, Age 18-39 we are recommending patients see their provider every 1-3 years based on above recommendations, this is not evidence-based, this is not for a head to toe exam. Age 40 and above we recommend a visit every 1-2 years as there are more screening tests and more morbidity, not evidence-based. IN PATIENTS WITH RISK FACTORS, SYMPTOMS,DISEASES OR MEDICATIONS: See more often.",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Physical Exam",
+        "Topic heading": "Physical Exam",
+        "Subject": "How often?",
+        "General Patient Text": "IF YOU ARE HEALTHY WITH NO RISKS FOR DISEASE: See your health care provider every 1-3 years.",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 39
+    },
+    {
+        "Button": "Physical Exam",
+        "Topic heading": "Physical Exam",
+        "Subject": "How often?",
+        "General Patient Text": "IF YOU ARE HEALTHY WITH NO RISKS FOR DISEASE: see your health care provider every 1-2 years.",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 40,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Physical Exam",
+        "Topic heading": "Physical Exam",
+        "Subject": "What is needed?",
+        "General Patient Text": "Blood pressure Height, weight, Body Mass Index; Reference: https://www.diabetes.ca/static/bmi-calculator.html, Other tests such as Pap Tests for women After 40, more tests are required. SEE YOUR PROVIDER MORE OFTEN IF MEASUREMENTS ABNORMAL. more; Reference: https://choosingwiselycanada.org/health-check-ups/, IF YOU HAVE HEALTH PROBLEMS, SYMPTOMS, RISK FACTORS OR ARE ON MEDICATION: you need a more complete physical exam, more often, discuss with your provider",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Get tested for Cervical Cancer \r\n(Pap test)",
+        "General Patient Text": "If you have ever been sexually active with another person, female or male, and are age 25 or over you need to be screened. See more information about: What is considered sexual activity?; Reference: https://www.sexandu.ca/sexual-activity/what-is-sex/, Women age 25 to 69 (21-69 in some provinces) if they have ever been sexually active, need to get a pap test every 3 years if results are normal. What is cervical cancer; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/cervical/cervical-cancer/?region=on, more; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/cervical/screening/?region=on, Age 69 or 70 will be the last year you have a pap test if you have had 3 normal Paps in the last 10 years. If not, you should continue until you have had 3 normal in their last 10 years.",
+        "Health Provider Text": "n/a",
+        "Gender": "f",
+        "Minimum age": 21,
+        "Maximum age": 74
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Cervical Cancer \r\n",
+        "General Patient Text": "A Pap test is not usually necessary over 75. Pap tests can be stopped at age 69 if you have had 3 normal tests in the last 10 years.",
+        "Health Provider Text": "n/a",
+        "Gender": "f",
+        "Minimum age": 75,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Cervical Cancer",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Women age 25 to 69 (21-69 in some provinces) if ever have been sexually active, need to get a pap test every 3 years if results are normal. Stop after age 69 if 3 normal results in past 10 years. CTFPHC 2013; Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/cervical-cancer/",
+        "Gender": "f",
+        "Minimum age": 21,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Other ways to prevent Cervical Cancer",
+        "General Patient Text": "Get the HPV vaccine recommended between age 9 and 26 but can be given at any age Don\u2019t smoke Use condoms Limit your number of sexual partners more; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/cervical/risks/reducing-your-risk/?region=on",
+        "Health Provider Text": "Recommend the HPV vaccine (recommended between 9 and 26 but can be given at any age). Canadian recommendation; Reference: https://www.canada.ca/en/public-health/services/publications/healthy-living/update-recommended-human-papillomavirus-vaccine-immunization-schedule.html#sum, Recommend no smoking, condom use, and limiting number of partners.",
+        "Gender": "f",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Family planning",
+        "General Patient Text": "Take folic acid: 0.4 to 1 mg a day. A vitamin available over the counter in pharmacies. For women of childbearing age, whether planning a pregnancy or not. folic acid; Reference: https://www.canada.ca/en/public-health/services/pregnancy/folic-acid.html, Talk to your health care provider about getting tested before you are pregnant for important diseases: Rubella, Hepatitis B, HIV:can affect your unborn child. Chicken pox: which can be very serious for you in pregnancy. If you are planning to have children after age 32 talk to your health care provider about fertility decreasing after that age and what it means for you.",
+        "Health Provider Text": "For women of childbearing age: Advise folic acid 0.4-1 m/day for all women of childbearing age, as many pregnancies unplanned SOGC 2015; Reference: https://www.jogc.com/article/S1701-2163(15)30230-9/pdf, Screen for: Rubella immunity Varicella immunity Hepatitis B and HIV disease in women of childbearing age, Complete preconception heare tool; Reference: http://thehub.utoronto.ca/family/wp-content/uploads/2016/12/Preconception_Health_Care_Tool.pdf, Delayed child-bearing: discuss Decreasing fertility for women after age 32 Assistive reproductive technologies cannot guarantee a live birth. more at SOGC guideline 2017; Reference: https://www.jogc.com/article/S1701-2163(17)30936-2/pdf",
+        "Gender": "f",
+        "Minimum age": 18,
+        "Maximum age": 49
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Infertility",
+        "General Patient Text": "A fertility evaluation should be initiated after 6 months of unprotected intercourse without conception in women 35 to 37 years of age, and earlier in women > 37 years of age",
+        "Health Provider Text": "A fertility evaluation should be initiated after 6 months of unprotected intercourse without conception in women 35 to 37 years of age, and earlier in women?>?37 years of age SOGC guideline 2017; Reference: https://www.jogc.com/article/S1701-2163(16)39898-X/fulltext",
+        "Gender": "f",
+        "Minimum age": 35,
+        "Maximum age": 49
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Prevent Sexually Transmitted Infections (STIs)",
+        "General Patient Text": "{{Practice safe sex}}: Use a condom or other protection; Reference: https://www.canada.ca/en/public-health/services/publications/diseases-conditions/booklet-sexually-transmitted-infections.html#_4.5, more info; Reference: https://www.cdc.gov/teenpregnancy/pdf/Teen-Condom-Fact_Sheet-English-March-2016.pdf {{Get tested for STIs}} If you are sexually active ((if you have ever had oral, vaginal or anal intercourse) (<Under age 30: every year>) for chlamydia and gonorrhea (<Age 30 and above: read below>) : How often you get tested depends on your risk. Here are some risks: if you have a new partner, multiple partners, you do not use protection, if your partner has or had an STI , for more risks see this link; Reference: https://www.canada.ca/en/public-health/services/publications/diseases-conditions/booklet-sexually-transmitted-infections.html#_7.0 (<Get tested for HIV at any age>) More info: Sexual activity; Reference: http://www.sexandu.ca/, Chlamydia and gonorrhea; Reference: https://canadiantaskforce.ca/tools-resources/chlamydia-and-gonorrhea-patient-faq/, Booklet on STIs; Reference: https://www.canada.ca/en/public-health/services/publications/diseases-conditions/booklet-sexually-transmitted-infections.html, Infections; Reference: https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/sexually-transmitted-infections-sexual-health-facts-information-public.html#geninfo",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Prevent Sexually Transmitted Infections (STIs)",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "(<Safe sex and STIcounselling>) for all sexually active patients. {{Screening for STIs}} {{Below age 30: annually}} for chlamydia and gonorrhea. Add full STI testing if at risk, see risks below. CTFPHC 2021; Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/chlamydia-and-gonorrhea/ {{Age 30 and above: according to risk}} for chlamydia and GC and other STIs, see below: Risks: new partner, multiple partners, serial monogamous relationships, unprotected sex, substance use, sex with blood exchange, sharing sex toys, see link; Reference: https://www.canada.ca/en/public-health/services/publications/diseases-conditions/booklet-sexually-transmitted-infections.html#_7.0 {{Offer HIV testing to all}}: Public Health Agency of Canada recommendation; Reference: https://www.canada.ca/en/public-health/services/hiv-aids/hiv-screening-testing-guide.html,, supported by USPSTF 2013 and CDC, CTFPHC recommends only if at risk; Reference: https://canadiantaskforce.ca/guidelines/appraised-guidelines/hiv/",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Prevent Prostate Cancer",
+        "General Patient Text": "Eat a healthy diet. Be active most days of the week. Keep your weight at a healthy level. What is prostate cancer?; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/prostate/prostate-cancer/?region=on, Risks; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/prostate/risks/?region=on",
+        "Health Provider Text": "Advise to Eat a healthy diet. Be active most days of the week. Keep a healthy weight.",
+        "Gender": "m",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Screening for Prostate Cancer",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Canadian task force (2014): Do not screen. Canadian patient handout; Reference: https://canadiantaskforce.ca/wp-content/uploads/2016/12/CTFPHC_Prostate-Cancer_HarmsBenefits_FINAL.pdf, US Task Force (2018): Discuss pros and cons with your patient 55 to 69 years old. (C recommendation) Incorporates more recent research. Excellent video explaining benefits and harms; Reference: https://www.youtube.com/watch?v=tYii98gcejA, US patient handout; pdf/prostate-cancer-infographic-5.pdf Canadian Urological Association 2022: Discuss with men ages 50-70. Note up to 67% of overdiagnosis. You may discuss earlier if positive family history or black race. Canadian Urological Assoc 2022; Reference: https://www.cua.org/system/files/Guideline-Files/7851_v6_1.pdf",
+        "Gender": "m",
+        "Minimum age": 40,
+        "Maximum age": 75
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Testing for Prostate Cancer",
+        "General Patient Text": "Screening for prostate cancer means that you do not have any symptoms related to your prostate and are doing a test to see if you possibly have cancer. Screening has benefits but important harms too. Symptoms of prostate cancer; Reference: https://www.nhs.uk/conditions/prostate-cancer/symptoms/, In Canada testing for finding prostate cancer early is not recommended by the Canadian Task Force Canadian patient handout; Reference: https://canadiantaskforce.ca/wp-content/uploads/2016/05/2014-prostate-cancer-patient-faq-colour-en.pdf, The US Preventive Services Task Force recomends men discuss testing for prostate cancer with your health care provider between ages 55 to 69. There are some benefits and some harms. Excellent video explaIning pros and cons; Reference: https://www.youtube.com/watch?v=tYii98gcejA, The Canadian Urological Association in 2022 recommends discussing testing for prostate cancer with your provider between ages 50 and 70 so you are aware of the benefits and harms. Note up to 67% of men diagnosed with prostate cancer by screening with PSA will not have any increased disease or die from this. Some organizations recommend discussing prostate cancer screening before age 50 if you have a family history of prostate cancer or are black.",
+        "Health Provider Text": "n/a",
+        "Gender": "m",
+        "Minimum age": 40,
+        "Maximum age": 75
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Sexual health",
+        "General Patient Text": "If you are on testosterone and have not had a hysterectomy (removal of the uterus), you need to use reliable form of birth control if there is a risk pregnancy based on your sexual practices, as testosterone can cause birth defects. If you are trying to or could become pregnant (based on your sexual practices), discuss this with your primary care provider, as taking a folic acid vitamin is important Condoms are recommended for anal sex. HIV testing is recommended for all Canadians at least once PHAC guidelines; Reference: https://www.canada.ca/en/public-health/services/hiv-aids/hiv-screening-testing-guide.html, Depending on your sexual practices and history, screening for sexually transmitted infections and HIV may be recommended at different times. Discuss any concerns you may have with your primary care provider. If you have been the receptive partner during anal sex (\u201cbottom\u201d), your primary care provider may recommend regular anal Pap tests. RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf",
+        "Health Provider Text": "Those on testosterone who have not undergone hysterectomy need reliable birth control if pregnancy is a risk based on sexual activity, as testosterone is a teratogen (RHO). If pregnancy is possible based on sexual activity, follow the same folic acid recommendations as for cis women. Condoms are recommended for anal sex. Emphasize adequate provision of lubricants for trans women and trans men who have sex with men. Screen all Canadians for HIV at least once as per PHAC guidelines; Reference: https://www.canada.ca/en/public-health/services/hiv-aids/hiv-screening-testing-guide.html, Screen for STIs based on behavioural history and sexual practices. Consider anal Pap tests every 2-3 years (or yearly in those who are HIV+) for those who have a history of receptive anal sex (RHO). In the LGBTQ+ community, the terms \u201cbottom\u201d and \u201ctop\u201d are often used to describe the receptive and penetrative partners during sexual activity, respectively. The term \u201cversatile\u201d is used to describe someone who may alternate between these roles. RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Contraception",
+        "General Patient Text": "If you are on testosterone and have not had a hysterectomy (removal of the uterus), you need to use a reliable form of birth control if there is a risk pregnancy based on your sexual practices, as testosterone can cause birth defects. For contraception hormonal methods (such as the \"pill\") can be used when taking testosterone. Barrier methods(condoms) are recommended for all.",
+        "Health Provider Text": "Those on testosterone who have not undergone hysterectomy need reliable birth control if pregnancy is a risk based on sexual activity, as testosterone is a teratogen (RHO). Any hormonal/methods can be used (no contraindications with testosterone)",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Cervical Cancer",
+        "General Patient Text": "If you have not had surgery to remove the uterus (including the cervix; Reference: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/cervix) , you need regular cervical cancer screening. Pap tests are recommended every 3 years from age 25-69 if you have ever been sexually active. Overview of cervical cancer screening for trans men in Canada; Reference: https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-men-and-cervical-cancer-screening/?region=on, RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/guidelines/cervical-cancer, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Health Provider Text": "Gender diverse people who still have a cervix should undergo cervical cancer screening as per current guidelines. (<Pap tests>) are recommended every 3 years from age 25-69 if the person has ever been sexually active. (<How to make the speculum exam easier>) Topical 2% lidocaine jelly vaginally 10-30 min prior to the procedure (patient can buy at pharmacy in many provinces, kept behind the counter, need to ask) The patient may want to bring someone for suport Use a pediatric speculum, patient may want to insert themselves. (< Ensure to note the cytology requisition>) if the patient is/was on testosterone on as cervical atrophy can mimic dysplasia. Other tips: A trial of vaginal estrogens for 1 week prior to the exam may be helpful (RHO, UCSF) but may cause gender dysphoria Consider administering a low-dose lorazepam pre-procedurally if the patient is particularly anxious about the exam (RHO, UCSF). (<Resources>) VIDEO: Do's and Dont's when performing Paps with trans men; Reference: https://www.youtube.com/watch?v=KIfSjX1ZEU4, Tips on performing Pap tests for trans men; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/2015/07/Tips_Paps_TransMen-1.jpg, RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/guidelines/cervical-cancer, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Prostate ",
+        "General Patient Text": "You may see information about testing for prostate cancer for men. If your sex assigned at birth is female, you do not have a prostate. \u201cBottom\u201d or \u201clower\u201d surgery (such as metoidioplasty or phalloplasty) does not create a prostate.Discuss with your provider if you have any questions.",
+        "Health Provider Text": "Trans men and people on the transmasculine spectrum generally do not have prostates (unless they have an intersex condition) nor are any created during surgery such as phalloplasty or metoidioplasty.",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Family planning",
+        "General Patient Text": "If you are trying to or could become pregnant (based on your sexual practices), discuss this with your primary care provider. Take a vitamin called folic acid; Reference: https://www.canada.ca/en/public-health/services/pregnancy/folic-acid.html 0.4 mg to 1 mg daily. Talk to your health care provider about getting tested before you are pregnant for important diseases such as: Rubella, Hepatitis B, HIV and Chicken pox If you want to be pregnant in your lifetime discuss with your provider increasing infertility after age 32. more; Reference: https://www.jogc.com/article/S1701-2163(17)30936-2/abstract",
+        "Health Provider Text": "If a person on the transmasculine spectrum could become pregnant or wants to become pregnant, preconception information is the same as for cis patients such as :folic acid supplementation , pre conception testing for diseases such as Rubella, Hep B, HIV, Varicella, counselling re increasing infertility after 32. See resources in our app for cis women , under the topic : Familly planning.",
+        "Gender": "tm",
+        "Minimum age": 18,
+        "Maximum age": 55
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Sexual health",
+        "General Patient Text": "HIV testing is recommended for all Canadians at least once PHAC guidelines; Reference: https://www.canada.ca/en/public-health/services/hiv-aids/hiv-screening-testing-guide.html, Depending on your sexual practices and history, screening for sexually transmitted infections and HIV may be recommended at different times. Discuss any concerns you may have with your primary care provider. Condoms are recommended for anal sex. If you have been the receptive partner during anal sex (\u201cbottom\u201d), your primary care provider may recommend regular anal Pap tests. If you have sex with men, have concerns about HIV prevention and would like to know more about pre- exposure prophylaxis (PrEP), discuss this with your primary care provider. RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf",
+        "Health Provider Text": "Emphasize adequate provision of lubricants for trans women and trans men who have sex with men. Screen all Canadians for HIV at least once as per PHAC guidelines; Reference: https://www.canada.ca/en/public-health/services/hiv-aids/hiv-screening-testing-guide.html, Screen for STIs based on behavioural history and sexual practices. Condoms are recommended for anal sex. Consider anal Pap tests every 2-3 years (or yearly in those who are HIV+) for those who have a history of receptive anal sex (RHO). Daily oral pre-exposure prophylaxis (PrEP) may be considered as a possible additional intervention for trans women who have sex with men (WHO). Voluntary medical circumcision (VMMC) is not recommended for HIV prevention among transgender women (WHO). In the LGBTQ+ community, the terms \u201cbottom\u201d and \u201ctop\u201d are often used to describe the receptive and penetrative partners during sexual activity, respectively. The term \u201cversatile\u201d is used to describe someone who may alternate between these roles. RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/sites/transcare.ucsf.edu/files/Transgender-PGACG-6-17-16.pdf",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Contraception",
+        "General Patient Text": "Use barrier method (and/or have partner use hormonal contraception) if no bottom surgery and having intercourse with partner who could get pregnant",
+        "Health Provider Text": "Recommendation is to use a barrier method (and/or have partner use hormonal contraception) if no bottom surgery and having intercourse with partner who could get pregnant.",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Prostate ",
+        "General Patient Text": "You have a prostate if you were assigned male sex at birth.Bottom surgery does not remove the prostate. To prevent prostate cancer: Eat a healthy diet. Be active most days of the week. Keep your weight at a healthy level. What is prostate cancer?; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/prostate/prostate-cancer/?region=on, Risks; Reference: http://www.cancer.ca/en/cancer-information/cancer-type/prostate/risks/?region=on, Testing for prostate cancer with the psa test is not recommended in Canada at this time . For more information choose : male age 55 to 69 on this app.",
+        "Health Provider Text": "Same as cis men (bottom surgery does not remove the prostate)",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Genitalia",
+        "Topic heading": "Sexual and Reproductive Health",
+        "Subject": "Cervical Cancer",
+        "General Patient Text": "Most trans women and non-binary people on the transfeminine spectrum do not need any cervical cancer screening, regardless of whether or not they have had a vaginoplasty. In the very rare instance where you would have had a cervix created during vaginoplasty, discuss the need for Pap tests with your primary care provider. If you have had a vaginoplasty, your primary care provider may suggest yearly visual examination with a speculum. Overview of cervical cancer screening for trans women in Canada; Reference: https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-women-and-cervical-cancer-screening/?region=on, RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/guidelines/cervical-cancer, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558 (Can be the same suggestions as for cisgender patients)",
+        "Health Provider Text": "Trans women and people on the transfeminine spectrum generally do not need any cervical cancer screening as vaginoplasty does not usually entail creation of a neocervix. Neovagina vault testing is not recommended. In the very rare instances where a neocervix may have been created during vaginoplasty (such as from the skin of the glans penis), consider following the current cervical cancer screening guidelines for cis women (ACOG) (Pap tests are recommended every 3 years from age 21 to 69 if the person has ever been sexually active). Consider annual neovaginal speculum examination to visually detect any abnormalities (including malignancy) for those who have undergone vaginoplasty (RHO). Neovaginas may have a more posterior orientation than those of cis women, and using an anoscope rather than a speculum may be more appropriate for examination (UCSF). Overview of cervical cancer screening for trans women in Canada; Reference: https://www.cancer.ca/en/prevention-and-screening/reduce-cancer-risk/find-cancer-early/screening-in-lgbtq-communities/trans-women-and-cervical-cancer-screening/?region=on, Tips for physical examination of trans patients; Reference: https://transcare.ucsf.edu/guidelines/physical-examination, RHO guidelines; Reference: https://www.rainbowhealthontario.ca/wp-content/uploads/woocommerce_uploads/2019/12/Guidelines-FINAL-Dec-2019-iw2oti.pdf, UCSF Transcare guidelines; Reference: https://transcare.ucsf.edu/guidelines/cervical-cancer, Endocrine Society guidelines; Reference: https://academic.oup.com/jcem/article/102/11/3869/4157558",
+        "Gender": "tf",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Sun",
+        "Topic heading": "Sun Exposure",
+        "Subject": "Stop Skin Cancer",
+        "General Patient Text": "Wear protective clothing Limit time in the sun (worst time: between 10 am and 3 pm) Wear sunscreen (minimum SPF 30) Avoid tanning booth and sun beds; Reference: https://www.canada.ca/en/health-canada/services/sun-safety/tanning-beds-lamps.html, More info; Reference: https://www.canada.ca/en/public-health/services/sun-safety/skin-cancer.html",
+        "Health Provider Text": "To prevent Melanoma: Decrease exposure to sun with:protective clothing, sunscreen min SPF 30 CTFPHC appraised guideline 2014;Reference: https://canadiantaskforce.ca/guidelines/appraised-guidelines/melanoma/, Clinical assessment of future risk of melanoma take into account: - person\u2019s age and sex - history of previous melanoma or non-melanoma skin cancer - family history of melanoma - number of naevi (common and atypical) - skin and hair pigmentation - response to sun exposure - evidence of actinic skin damage",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Eye",
+        "Topic heading": "Vision",
+        "Subject": "Screening for impaired vision",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "CTFPHC does not recommend screening for impaired vision in community dwelling adults 65 and over who do not have risk factors. CTFPHC 2018; Reference: https://canadiantaskforce.ca/wp-content/uploads/2020/04/CTFPHC_Impaired-Vision_Clinican-FAQ_Final.pdf, Canadian Ophthalmology Society 2007 consensus only recommendation: If high risk more frequent screening advised than below. High risk: African American, high myopia,diabetes or hypertension. 18-40 every 10 years 41-55 every 5 years 56-64 every 3 years 65 and above every year Current guideline under review; Reference: https://c2-preview.prosites.com/187380/wy/docs/COSVisionScreeningCPGEng_Feb07.pdf",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Eye",
+        "Topic heading": "Vision",
+        "Subject": "Discuss with your primary care provider or see an optometrist",
+        "General Patient Text": "Some people have a higher risk of vision problems: for example people of african-american origin and those with diabetes or hypertension . Discuss with your primary care provider if you need an eye exam or see an optometrist.",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "braingear",
+        "Topic heading": "Mental Health",
+        "Subject": "General ",
+        "General Patient Text": "Taking care of your mental health is as important as taking care of your physical health. Maintaining a healthy diet, being physically active and getting enough sleep helps reduce stress, improves concentration and mood.",
+        "Health Provider Text": "N/A",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "braingear",
+        "Topic heading": "Mental Health",
+        "Subject": "Suicide prevention and other support",
+        "General Patient Text": "Crisis Suicide hotline: Dial or Text 988 from anywhere in Canada for yourself or someone you are worried about. A safe place to talk Crisis Services Canada ; Reference: https://www.crisisservicescanada.ca/en/, Find resources at the Canadian Association for Suicide Prevention; Reference: https://suicideprevention.ca/resources/, Get more free help with mental health; Reference: https://www.wellnesstogether.ca/en-CA",
+        "Health Provider Text": "N/A",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "braingear",
+        "Topic heading": "Mental Health",
+        "Subject": "Indigenous people",
+        "General Patient Text": "Hope for wellness; Reference: https://www.hopeforwellness.ca/, provides immediate non-judgemental, culturally competent, trauma-informed emotional support, crisis intervention, or referrals to community-based services. Call 1-855-242-3310 or go to their website for chat services. Find Information on federal government programs; Reference: https://www.sac-isc.gc.ca/eng/1576089278958/1576089333975",
+        "Health Provider Text": "N/A",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "braingear",
+        "Topic heading": "Mental Health",
+        "Subject": "Free resources to practice mindfulness",
+        "General Patient Text": "Mindshift; Reference: https://www.anxietycanada.com/resources/mindshift-cbt;, to build skills for managing anxiety and depression Headspace; Reference: https://www.headspace.com/mindfulness, Insight timer; Reference: https://insighttimer.com/",
+        "Health Provider Text": "N/A",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "braingear",
+        "Topic heading": "Mental Health",
+        "Subject": "Guidelines",
+        "General Patient Text": "N/A",
+        "Health Provider Text": "As per CTFPH 2013 guidelines; Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/depression/ : Screening for depression is not recommended for adults at average risk of depression who present to a primary care setting, with no apparent symptoms of depression. (Weak recommendation; very-low-quality evidence). These recommendations do not apply to people with known depression, with a history of depression or who are receiving treatment for depression. However primary care providers know the importance of mental health and how it influences overall health. Below are some resources.",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "braingear",
+        "Topic heading": "Mental Health",
+        "Subject": "Resources",
+        "General Patient Text": "N/A",
+        "Health Provider Text": "Tools to help you care for your patients: eMental Health; Reference: https://primarycare.ementalhealth.ca/index.php?m=fpStart, Assessment of ADHD in adults; Reference: https://www.caddra.ca/public-information/adults/forms/, Mindfulness ressources; Mindshift; Reference: https://www.anxietycanada.com/resources/mindshift-cbt;, to build skills for managing anxiety and depression Headspace; Reference: https://www.headspace.com/mindfulness, Insight timer; Reference: https://insighttimer.com/, Screening tools; Reference: https://primarycare.ementalhealth.ca/index.php?m=surveyList",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "bp",
+        "Topic heading": "Blood Pressure",
+        "Subject": "Get your blood pressure checked",
+        "General Patient Text": "During your visit with your health care provider, ask for a measurement of your blood pressure. A normal blood pressure is under 140/90 mmHg or lower for some people . The target blood pressure depends on factors like age and health conditions, and where readings are being taken. If you have diabetes, kidney disease or other health conditions, speak to your health care professional about your target blood pressure. How to appropriately measure your blood pressure at home; Reference: https://hypertension.ca/wp-content/uploads/2020/03/BPM-Postcard-Front.jpg, Understanding and Managing Your Blood Pressure; Reference: https://guidelines.hypertension.ca/wp-content/uploads/2022/09/HTC_Brochure_UnderstandingBP_2018_R3.pdf",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "bp",
+        "Topic heading": "Blood Pressure",
+        "Subject": "Guidelines",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "CTFPHC recommends blood pressure measurement at all appropriate primary care visits. 2012 Guideline; Reference: https://canadiantaskforce.ca/guidelines/published-guidelines/hypertension/ (Strong recommendation; moderate quality evidence) Hypertension Canada guideline summary 2022; Reference: https://hypertension.ca/wp-content/uploads/2020/10/2020-22-HT-Guidelines-E-WEB_v3b.pdf, If the mean blood pressure measured in office As per recommended technique; Reference: https://guidelines.hypertension.ca/diagnosis-assessment/measuring-blood-pressure/, is high during one visit, a history and physical examination should be performed and, if clinically indicated, diagnostic tests to search for target organ damage should be arranged within 2 visits. Routine Lab Testing Recommended: urinalysis, blood chemistry (potassium, sodium and creatinine), fasting blood glucose and/or glycated hemoglobin (A1C), serum total cholesterol, LDL, HDL, non-HDL, triglycerides (fasting or non-fasting) and a standard 12-lead ECG. Global cardiovascular risk assessment should be done using risks calculators: Framingham only validated between age 30 and 74 Risk calculator with happy faces; Reference: https://cvdcalculator.com/, More risk calculators; Reference: https://ccs.ca/calculators-and-forms/",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "money",
+        "Topic heading": "Money Issues",
+        "Subject": "Food",
+        "General Patient Text": "If you have trouble getting food : Click on 211.ca; Reference: https://211.ca, or phone/text 211 Choose your province or territory Enter your location by postal code or city/town Choose the topic: food You can find food banks near you or meals. (<If you are having trouble online: call 211 and someone will help you find what you need.>)",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "money",
+        "Topic heading": "Money Issues",
+        "Subject": "Housing",
+        "General Patient Text": "If you have trouble with housing : Click on 211.ca; Reference: https://211.ca, or phone/text 211 Choose your province or territory Enter your location by postal code or city/town Choose the topic housing. (<If you are having trouble online: call 211 and someone will help you find what you need.>)",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "money",
+        "Topic heading": "Money Issues",
+        "Subject": "Other ",
+        "General Patient Text": "211.ca; Reference: https://211.ca/, has information for many other services such as : Financial assistance Employment/Training and more (<If you are having trouble online: call and someone will help you find what you need.>)",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "money",
+        "Topic heading": "Social determinants of health",
+        "Subject": "Social determinants of health",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Ask 1 screening question: \"Do you ever have difficulty making ends meet at the end of the month?\" Resource; Reference: https://www.cfpc.ca/CFPC/media/Resources/Poverty/Poverty_flow-Tool-Final-2016v4-Ontario.pdf (<Go to 211.ca; Reference: https://211.ca, for info on food, housing, finanical assistance and more>). Enter patient's postal code to find local resources eg food banks. Patients can phone to get help navigating or text (time restrictions may apply to texting) Not all areas covered by 211. Investigate your local resources if 211 not available and keep a list or if possible refer to a social worker or other resource Ref on preventive care for equity CMAJ 2023; Reference: https://www.cmaj.ca/content/cmaj/195/37/E1250.full.pdf, Other resources; Reference: https://www.casw-acts.ca/en/resources/practice-resources, Ref on Social prescribing; Reference: https://www.cmaj.ca/content/cmaj/193/44/E1696.full.pdf",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "sleep",
+        "Topic heading": "Sleep",
+        "Subject": "Sleep ",
+        "General Patient Text": "Trusted evidence-based information on sleep and sleep problems: mysleepwell.ca; Reference: https://mysleepwell.ca/, ementalhealth.ca; Reference: https://www.ementalhealth.ca/index.php?m=headingInfoSheets&ID=189, A good night's sleep; Reference: https://www.camh.ca/-/media/health-info-files/covid-19-2023/covid19-booklet-good-nights-sleep-pdf.pdf, Sleep and electronics; Reference: https://www.ementalhealth.ca/Ottawa-Carleton/Sleep-Problems-Try-Cutting-Back-on-Your-Blue-Light/index.php?m=article&ID=62333, HealthlinkBC; Reference: https://www.healthlinkbc.ca/illnesses-conditions/fatigue-and-sleep/insomnia",
+        "Health Provider Text": "Evidence-based information on sleep problems: mysleepwell.ca; Reference: https://mysleepwell.ca/, ementalhealth.ca; Reference: https://www.ementalhealth.ca/index.php?m=headingInfoSheets&ID=189, A good night's sleep; Reference: https://www.camh.ca/-/media/files/covid19-booklet-good-nights-sleep-pdf.pdf, Sleep and electronics; Reference: https://www.ementalhealth.ca/Ottawa-Carleton/Sleep-Problems-Try-Cutting-Back-on-Your-Blue-Light/index.php?m=article&ID=62333, HealthlinkBC; Reference: https://www.healthlinkbc.ca/illnesses-conditions/fatigue-and-sleep/insomnia, MyHealth.Alberta.ca; Reference: https://myhealth.alberta.ca/health/pages/conditions.aspx?Hwid=abq4925",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Kidney",
+        "Topic heading": "Kidney",
+        "Subject": "Prevent kidney disease",
+        "General Patient Text": "How do kidneys work? Video; Reference: https://www.youtube.com/watch?v=FN3MFhYPWWo, Keep your kidneys healthy: Kidney.ca; Reference: https://kidney.ca/Kidney-Health/Your-Kidneys/Keeping-Your-Kidneys-Healthy, Prevent kidney disease UK; Reference: https://www.nhs.uk/conditions/kidney-disease/prevention/",
+        "Health Provider Text": "Kidney wise tookit 2020; Reference: https://www.ontariorenalnetwork.ca/sites/renalnetwork/files/assets/Clinical_Toolkit.pdf, Prevent kidney disease UK; Reference: https://www.nhs.uk/conditions/kidney-disease/prevention/, Chronic kidney disease CMAJ 2023; Reference: https://www.cmaj.ca/content/195/17/E612",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "symptomchecker",
+        "Topic heading": "Check Your Symptoms",
+        "Subject": "Before checking",
+        "General Patient Text": "If this is an emergency call 911 Some provinces offer online symptom checkers. You can use the symptom checker of a different province or territory from where you live, but the provincial resources and contact information may not apply to you (e.g. tel numbers or online chat functions)",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "symptomchecker",
+        "Topic heading": "Check Your Symptoms",
+        "Subject": "Alberta",
+        "General Patient Text": "Check your symptoms; Reference: https://myhealth.alberta.ca/health/Pages/conditions.aspx?hwid=hwsxchk, The advice obtained with this link does not replace that of a qualified medical professional.",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "symptomchecker",
+        "Topic heading": "Check Your Symptoms",
+        "Subject": "British Columbia",
+        "General Patient Text": "Check your symptoms; Reference: https://www.healthlinkbc.ca/illnesses-conditions/check-your-symptoms, The advice obtained with this link does not replace that of a qualified medical professional.",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "symptomchecker",
+        "Topic heading": "Check Your Symptoms",
+        "Subject": "New Brunswick",
+        "General Patient Text": "Check your symptoms; Reference: https://www2.gnb.ca/content/gnb/en/departments/health/patientinformation/PrimaryHealthCare/What_is_Primary_Health_Care/symptom-checker.html, The advice obtained with this link does not replace that of a qualified medical professional.",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "symptomchecker",
+        "Topic heading": "Check Your Symptoms",
+        "Subject": "Ontario",
+        "General Patient Text": "Check your symptoms; Reference: https://health811.ontario.ca/static/guest/symptom-assessment, Explore the medical library; Reference: https://health811.ontario.ca/static/guest/medical-library?search=&searchPage=1&letter=a&azPage=1, The advice obtained with this link does not replace that of a qualified medical professional.",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "symptomchecker",
+        "Topic heading": "Check Your Symptoms",
+        "Subject": "Saskatchewan",
+        "General Patient Text": "Check your symptoms; Reference: https://www.saskhealthauthority.ca/your-health/conditions-diseases-services/healthline-online/hwsxchk, The advice obtained with this link does not replace that of a qualified medical professional.",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "symptomchecker",
+        "Topic heading": "Check Your Symptoms",
+        "Subject": "Other provinces and territories",
+        "General Patient Text": "You can use the symptom checker of any province but if the text suggests to call a number, check if this service is exists in your province. IF there is an emergency call 911. In most provinces and territories you can call 811 to speak to a nurse, in Manitoba call 1-888-315-9257",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "symptomchecker",
+        "Topic heading": "Check Your Symptoms",
+        "Subject": "Speak to a nurse",
+        "General Patient Text": "You can call 811 or In some provinces or territories you can access online resources or chat online at the 811 website of your province :search online for 811 with your province name. In Manitoba call 1-888-315-9257",
+        "Health Provider Text": "n/a",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "symptomchecker",
+        "Topic heading": "Check Your Symptoms",
+        "Subject": "Check Your Symptoms",
+        "General Patient Text": "n/a",
+        "Health Provider Text": "Below are symptom checker tools for patients on some provincial government websites. We update this info periodically. Our site cautions patients that this does not replace the advice of a qualified health professional. Alberta; Reference: https://myhealth.alberta.ca/health/Pages/conditions.aspx?hwid=hwsxchk, British Columbia; Reference: https://www.healthlinkbc.ca/illnesses-conditions/check-your-symptoms, New Brunswick; Reference: https://www2.gnb.ca/content/gnb/en/departments/health/patientinformation/PrimaryHealthCare/What_is_Primary_Health_Care/symptom-checker.html, Ontario; Reference: https://health811.ontario.ca/static/guest/symptom-assessment, Saskatchewan; Reference: https://www.saskhealthauthority.ca/your-health/conditions-diseases-services/healthline-online/hwsxchk",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "familydoctor",
+        "Topic heading": "No Family MD/NP",
+        "Subject": "I have a health problem",
+        "General Patient Text": "Dial 811 or go to the 811 website of your province , except in Manitoba go to Better Health; Reference: https://www.gov.mb.ca/betterhealth/index.html, When you go through 811, several provinces or territories can connect you with a nurse practitioner if you need a prescription or more advice. Use the symptom checkers on this app to see how to deal with your problem. (see the Topics tab at the top and click on \"Check your symptoms\") For Ontario: Free virtual urgent care by a nurse practitioner is available if needed after discussing on the phone with a nurse at 811 Some regions have direct links to free virtual urgent care: Ontario East; Reference: https://www.virtualcareontario.ca/?gclid=Cj0KCQiA2KitBhCIARIsAPPMEhK90tQ2RKTjEsDKWF567nO6hg6bJh4JGAQZ8RfYZceXt2FzwhRFHLgaAkDNEALw_wcB, Central Ontario; Reference: https://regional-virtual-urgent-care.ca/, Southwestern Ontario; Reference: https://www.urgentcareontario.ca/",
+        "Health Provider Text": "The following information is displayed on our site if choosing to access as member of the public (if you detect errors or omissons please let us know by clicking on Feedback on any page on our site): Dial 811 or go to the 811 website of your province , except in Manitoba go to Better Health; Reference: https://www.gov.mb.ca/betterhealth/index.html, When you go through 811, several provinces or territories can connect you with a nurse practitioner if you need a prescription or more advice. Use the symptom checkers on this app see how to deal with your problem. For Ontario: Free virtual urgent care by a nurse practitioner is available if needed after discussing on the phone with a nurse at 811 Some regions have direct links to free virtual urgent care: Ontario East; Reference: https://www.virtualcareontario.ca/?gclid=Cj0KCQiA2KitBhCIARIsAPPMEhK90tQ2RKTjEsDKWF567nO6hg6bJh4JGAQZ8RfYZceXt2FzwhRFHLgaAkDNEALw_wcB, Central Ontario; Reference: https://regional-virtual-urgent-care.ca/, Southwestern Ontario; Reference: https://www.urgentcareontario.ca/",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "familydoctor",
+        "Topic heading": "No Family MD/NP",
+        "Subject": "I want to find a health professional",
+        "General Patient Text": "Phone 811 or for Manitoba visit Better Health; Reference: https://www.gov.mb.ca/betterhealth/index.html, Some provinces have websites to register to find a practitioner These links also often have information on how to get care while waiting: Alberta; Reference: https://www.albertahealthservices.ca/info/Page13253.aspx, British Columbia; Reference: https://www.healthlinkbc.ca/health-connect-registry, Manitoba; Reference: https://www.gov.mb.ca/health/familydoctorfinder/, New Brunswick; Reference: https://www2.gnb.ca/content/gnb/en/corporate/promo/accessing-healthcare/be-matched.html, Newfoundland and Labrador; Reference: https://patientconnect.nlchi.nl.ca/, Nova Scotia; Reference: https://needafamilypractice.nshealth.ca/, Ontario; Reference: https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner, PEI; Reference: https://www.princeedwardisland.ca/en/service/find-a-family-doctor-or-nurse-practitioner, Quebec; Reference: https://www.quebec.ca/en/health/finding-a-resource/registering-with-a-family-doctor",
+        "Health Provider Text": "The following information is displayed on our site if choosing to access as member of the public (if you detect errors or omissons please let us know by clicking on Feedback on any page on our site): Phone 811 or for Manitoba to this link; Reference: https://www.gov.mb.ca/betterhealth/index.html, Some provinces have websites to register to find a practitioner These links also often have information on how to get care while waiting: Alberta; Reference: https://www.albertahealthservices.ca/info/Page13253.aspx, British Columbia; Reference: https://www.healthlinkbc.ca/health-connect-registry, Manitoba; Reference: https://www.gov.mb.ca/health/familydoctorfinder/, Newfoundland and Labrador; Reference: https://patientconnect.nlchi.nl.ca/, Nova Scotia; Reference: https://needafamilypractice.nshealth.ca/, Ontario; Reference: https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner, PEI; Reference: https://www.princeedwardisland.ca/en/service/find-a-family-doctor-or-nurse-practitioner, Quebec; Reference: https://www.quebec.ca/en/health/finding-a-resource/registering-with-a-family-doctor",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Mouth",
+        "Topic heading": "Oral Health",
+        "Subject": "Government of Canada ",
+        "General Patient Text": "Oral health; Reference: https://www.canada.ca/en/public-health/topics/oral-health.html, Canadian dental plan; Reference: https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html",
+        "Health Provider Text": "Oral health; Reference: https://www.canada.ca/en/public-health/topics/oral-health.html, Canadian dental plan; Reference: https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Mouth",
+        "Topic heading": "Oral Health",
+        "Subject": "Canadian Dental Association",
+        "General Patient Text": "Your oral health; Reference: https://www.cda-adc.ca/en/oral_health/index.asp",
+        "Health Provider Text": "Oral health; Reference: https://www.cda-adc.ca/en/oral_health/index.asp",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    },
+    {
+        "Button": "Mouth ",
+        "Topic heading": "Oral Health",
+        "Subject": "Indigenous Dental Association of Canada",
+        "General Patient Text": "Dental benefits guide; Reference: https://www.idac.agency/non-insured-health-benefit-program, Indigenous Dental Association of Canada website; Reference: https://www.idac.agency/",
+        "Health Provider Text": "Resources for professionals and the public; Reference: https://www.idac.agency/",
+        "Gender": "all",
+        "Minimum age": 18,
+        "Maximum age": 150
+    }
+]

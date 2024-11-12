@@ -15,6 +15,7 @@ load_dotenv()
 
 # data_directory = os.path.join(os.path.dirname(__file__), "data")
 
+
 #For Tracing and logging
 os.environ["LANGCHAIN_TRACING_V2"]="true"
 os.environ["LANGCHAIN_PROJECT"]="ICanBeWellChatbot"

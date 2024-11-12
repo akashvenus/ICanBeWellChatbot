@@ -4,7 +4,12 @@
 venv
 
 #Ignore chroma store
-data/c655319a-416f-4417-a02d-556aa3071bea
+data/ff80b108-7e2a-4b1c-bcbb-dd7fb11e39a1
+data/chroma.sqlite3
+
+
+#ignore volumns directory
+volumes
 
 #Ignore cache
 __pycache__
