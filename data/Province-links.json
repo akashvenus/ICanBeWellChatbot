@@ -1,0 +1,8 @@
+{ 
+    "Alberta": "https://myhealth.alberta.ca/health/Pages/conditions.aspx?hwid=hwsxchk",
+    "British Columbia": "https://www.healthlinkbc.ca/illnesses-conditions/check-your-symptoms",
+    "New Brunswick": "https://www2.gnb.ca/content/gnb/en/departments/health/patientinformation/PrimaryHealthCare/What_is_Primary_Health_Care/symptom-checker.html",
+    "Ontario": "https://health811.ontario.ca/static/guest/symptom-assessment",
+    "Saskatchewan": "https://www.saskhealthauthority.ca/your-health/conditions-diseases-services/healthline-online/hwsxchk"
+
+}
