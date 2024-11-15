@@ -2,84 +2,17 @@ from langchain_community.document_loaders import JSONLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_milvus import Milvus  
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
-# from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+
 import os
 from collections import OrderedDict
 import json
 from dotenv import load_dotenv
 from pymilvus import connections, utility
-# import boto3
-# from botocore.exceptions import ClientError
-# from langchain_core.documents import Document
 
-# def load_data():
-#     s3 = boto3.client('s3')
-#     response = s3.get_object(Bucket='rag-chatbot-jsondata', Key='HtmlTopic-EN-final.json')
-#     data = json.loads(response['Body'].read().decode('utf-8'))
-#     return data
-
-# def transform_data(data):
-#     docs = []
-#     for entry in data:
-#         # Extracting fields based on the jq_schema
-#         transformed_entry = {
-#             'button': entry.get('Button'),
-#             'topic_heading': entry.get('Topic heading'),
-#             'subject': entry.get('Subject'),
-#             'general_patient_text': entry.get('General Patient Text'),
-#             'health_provider_text': entry.get('Health Provider Text'),
-#             'gender': entry.get('Gender'),
-#             'min_age': entry.get('Minimum age'),
-#             'max_age': entry.get('Maximum age')
-#         }
-
-#         # Create a document with page_content and metadata
-#         doc = Document(
-#             page_content=json.dumps({
-#                 key: value for key, value in transformed_entry.items()
-#                 if key not in ['button', 'topic_heading', 'gender', 'min_age', 'max_age']
-#             }),
-#             metadata={
-#                 'button': transformed_entry['button'],
-#                 'topic_heading': transformed_entry['topic_heading'],
-#                 'gender': transformed_entry['gender'],
-#                 'min_age': transformed_entry['min_age'],
-#                 'max_age': transformed_entry['max_age']
-#             }
-#         )
-#         docs.append(doc)
-#     return docs
-
-# def get_secret():
-
-#     secret_name = "rag-chatbot-secrets"
-#     region_name = "us-east-1"
-
-#     # Create a Secrets Manager client
-#     session = boto3.session.Session()
-#     client = session.client(
-#         service_name='secretsmanager',
-#         region_name=region_name
-#     )
-
-#     try:
-#         get_secret_value_response = client.get_secret_value(
-#             SecretId=secret_name
-#         )
-#     except ClientError as e:
-#         # For a list of exceptions thrown, see
-#         # https://docs.aws.amazon.com/secretsmanager/latest/apireference/API_GetSecretValue.html
-#         raise e
-
-#     secret = get_secret_value_response['SecretString']
-#     return secret
-
-# Load secrets from AWS
-# res = json.loads(get_secret())
 
 load_dotenv()
 
-# os.environ['HUGGINGFACEHUB_API_TOKEN'] = res['HUGGINGFACEHUB_API_TOKEN']
+
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
 # Milvus configuration
@@ -115,8 +48,6 @@ try:
     # Connect to Milvus first
     connect_to_milvus()
     
-    # s3_data = load_data()
-    # docs = transform_data(s3_data)
 
     # Load the document
     loader = JSONLoader(
@@ -139,12 +70,7 @@ try:
     texts = text_splitter.split_documents(docs) 
      
     embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-    # model_name = "BAAI/bge-small-en"
-    # model_kwargs = {"device": "cuda"}
-    # encode_kwargs = {"normalize_embeddings": True}
-    # embedding_model = HuggingFaceBgeEmbeddings(
-    #     model_name=model_name, model_kwargs=model_kwargs, encode_kwargs=encode_kwargs
-    # )
+
 
     # Setup Milvus collection
     setup_milvus()
