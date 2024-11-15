@@ -5,16 +5,13 @@ from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
 import os
 from pymilvus import connections
-# from langchain_chroma import Chroma
 from langchain_milvus import Milvus
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from langchain_core.runnables import RunnablePassthrough
-from rag_model import connect_to_milvus
 import json
 
 load_dotenv()
 
-# data_directory = os.path.join(os.path.dirname(__file__), "data")
 
 
 #For Tracing and logging
@@ -175,10 +172,8 @@ for message in st.session_state.messages:
 
 if len(st.session_state.messages) == 0:
     initial_prompt = '''Introduce yourself as Well-bot, an ICanBeWell application's chabot only giving information related to prevention of diseases powered by Google Gemini. Remember, This does not replace the advice of a trained professional. If you have any concerns about your health, please consult with a doctor or other qualified healthcare provider. Call 911 if urgent. '''  
-    # message = llm.generate_content(initial_prompt)
     message = llm.invoke(initial_prompt)
-    # display_message(1,message.candidates[0].content.parts[0].text) 
-    display_message(1,message.content)
+    display_message(1,message)
 
 def is_symptom_present(user_text):
     return any(symptom in user_text.lower() for symptom in symptom_keywords)
@@ -234,5 +229,5 @@ if user_text := st.chat_input("What's up?"):
         else:
             conversation_history = "\n".join([f"{msg['role']}: {msg['content']}" for msg in st.session_state.messages])
             full_prompt = conversation_history + "\nuser: " + user_text 
-            message = rag_run(prompt,user_text,vector_store,full_prompt)
+            message = rag_run(prompt,user_text,vector_store,full_prompt,llm)
             display_message(1,message)
